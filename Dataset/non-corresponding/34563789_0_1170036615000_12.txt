@@ -1,0 +1,12 @@
+<article_title>Bushfires in Australia</article_title>
+<edit_user>Anon</edit_user>
+<edit_time>2013-10-24T02:57:31Z</edit_time>
+<edit_comment>fixed ref</edit_comment>
+<edit_text>Greg Hunt uses Wikipedia research to dismiss links between climate change and bushfires</edit_text>
+<turn_user>Yeti Hunter<turn_user>
+<turn_time>06:25, 30 October 2010 </turn_time>
+<turn_topicname>Lead sentence</turn_topicname>
+<turn_topictext>I find the uncited lead sentence asserting that Aussie bushfires are the most frequent in the world quite suspect, especially in light of data like this. I'm looking for a nice citation that sums up the unique characteristics of bushfire in Australia as opposed to elsewhere in the world, perhaps something like "characterised by their intensity and relatively short duration". This page from the CSIRO gets close, and can certainly be used, but it doesn't quite do it for the lead sentence. Any suggestions?--Yeti Hunter (talk) 06:25, 30 October 2010 (UTC)
+
+Removed and replaced</turn_topictext>
+<turn_text> I find the uncited lead sentence asserting that Aussie bushfires are the most frequent in the world quite suspect, especially in light of data like this. I'm looking for a nice citation that sums up the unique characteristics of bushfire in Australia as opposed to elsewhere in the world, perhaps something like "characterised by their intensity and relatively short duration". This page from the CSIRO gets close, and can certainly be used, but it doesn't quite do it for the lead sentence. Any suggestions?- </turn_text>

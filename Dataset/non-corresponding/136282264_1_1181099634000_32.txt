@@ -1,0 +1,10 @@
+<article_title>Antibody</article_title>
+<edit_user>Ciar</edit_user>
+<edit_time>Wednesday, June 6, 2007 6:17:30 AM CEST</edit_time>
+<edit_comment>/* History */ rw</edit_comment>
+<edit_text>Further protein and gene characteristics were discovered in the years that followed. Gerald Edelman and Joseph Gally discovered the antibody light chain in the early 1960s,&lt;ref&gt;&lt;/ref&gt; and realized it was same as the Bence-Jones protein described in 1845 by Henry Bence Jones.&lt;ref&gt;&lt;/ref&gt; Edelman went on to discover that antibodies are composed of disulphide bond-linked heavy and light chains. Around the same time, antibody-binding (Fab) and antibody tail (Fc) regions of IgG were characterized by Rodney Porter.&lt;ref name=edel&gt;&lt;/ref&gt; By working together, these <strong><strike>two </strike></strong>scientists went on to discover the structure and complete amino acid sequence of IgG, a feat for which they were jointly awarded the 1972 Nobel prize in Physiology or Medicine.&lt;ref name=edel/&gt; While most early antibody studies focused on IgM and IgG, other immunoglobulin isotypes were identified in the 1960s; Thomas Tomasi identified secretory antibody (IgA) in 1965,</edit_text>
+<turn_user>Ciar<turn_user>
+<turn_time>Wednesday, June 6, 2007 5:13:54 AM CEST</turn_time>
+<turn_topicname>History</turn_topicname>
+<turn_topictext>I've noticed that a lot of reviewers want to see history sections in articles when they are proposed for the higher levels (!) so I put together a little mish-mash of history that I could find out there. I can't seem to make it flow though...any good copy-editors want to have a go?? Ciar 05:13, 6 June 2007 (UTC) Ciar 21:27, 20 May 2007 (UTC) Done. TimVickers 15:57, 6 June 2007 (UTC)</turn_topictext>
+<turn_text>I've noticed that a lot of reviewers want to see history sections in articles when they are proposed for the higher levels (!) so I put together a little mish-mash of history that I could find out there. I can't seem to make it flow though...any good copy-editors want to have a go?? </turn_text>

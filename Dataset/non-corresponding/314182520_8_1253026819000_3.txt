@@ -1,0 +1,11 @@
+<article_title>Brain</article_title>
+<edit_user>Ostracon</edit_user>
+<edit_time>Tuesday, September 15, 2009 8:26:26 PM CEST</edit_time>
+<edit_comment>/* Brain and mind */</edit_comment>
+<edit_text>Through most of history many philosophers found it inconceivable that cognition could be implemented by a physical substance such as brain tissue.&lt;ref&gt;Neurophilosophy, Ch. 6&lt;/ref&gt; Philosophers such as Patricia Churchland posit that the drug-mind interaction is indicative of an intimate connection between the brain and the mind, not that the two are the same entity.&lt;ref&gt;Neurophilosophy, Ch. 8&lt;/ref&gt; Even Descartes, notable for his mechanistic philosophy<strong><strike> which</strike></strong><strong>, who</strong> found it possible to explain reflexes and other simple behaviors in mechanistic terms, could not believe that complex thought, language in particular, could be explained by reference to the physical brain alone.&lt;ref&gt;1988. The Philosophical Writings Of Descartes in 3 vols. Cottingham, J., Stoothoff, R., Kenny, A., and Murdoch, D., trans. Cambridge University Press. &lt;/ref&gt;</edit_text>
+<turn_user>Tryptofish<turn_user>
+<turn_time>Tuesday, September 15, 2009 5:00:19 PM CEST</turn_time>
+<turn_topicname>unclear sentence?</turn_topicname>
+<turn_topictext>In the section Brain energy consumption, I find the sentence below to be difficult to understand. Perhaps the topic can be better explained? The demands of the brain limit its size in some species, such as bats.[78]
+- Hordaland (talk) 11:04, 15 September 2009 (UTC) Done. The source cited seems to be talking about limiting body weight in order to fly. --Tryptofish (talk) 17:00, 15 September 2009 (UTC)</turn_topictext>
+<turn_text>Done. The source cited seems to be talking about limiting body weight in order to fly. </turn_text>

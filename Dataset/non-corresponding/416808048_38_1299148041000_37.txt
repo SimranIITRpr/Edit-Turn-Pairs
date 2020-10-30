@@ -1,0 +1,29 @@
+<article_title>Black_hole</article_title>
+<edit_user>Headbomb</edit_user>
+<edit_time>Wednesday, March 2, 2011 10:21:12 PM CET</edit_time>
+<edit_comment>restore unspace version per [[WP:CITEVAR]]</edit_comment>
+<edit_text>By their very nature, black holes do not directly emit any signals other than the hypothetical Hawking radiation; since the Hawking radiation for an astrophysical black hole is predicted to be very weak, this makes it impossible to directly detect astrophysical black holes from the Earth. A possible exception to the Hawking radiation being weak is the last stage of the evaporation of light (primordial) black holes; searches for such flashes in the past has proven unsuccessful and provides stringent limits on the possibility of existence of light primordial black holes.&lt;ref&gt;{{Cite journal
+<strong><strike> |last1=Fichtel |first1=C. E.
+ |last2=Bertsch |first2=D. L.
+ |last3=Dingus |first3=B. L.
+ |last4=Esposito |first4=J. A.
+ |last5=Hartman |first5=R. C.
+ |last6=Hunter |first6=S. D.
+ |last7=Kanbach |first7=G.;
+ |last8=Kniffen |first8=D. A.
+ |last9=Lin |first9=Y. C.
+</strike></strong><strong> |last1=Fichtel |first1=C.E.
+ |last2=Bertsch |first2=D.L.
+ |last3=Dingus |first3=B.L.
+ |last4=Esposito |first4=J.A.
+ |last5=Hartman |first5=R C.
+ |last6=Hunter |first6=S.D.
+ |last7=Kanbach |first7=G.
+ |last8=Kniffen |first8=D.A.
+ |last9=Lin |first9=Y.C.
+</strong> |display-authors=3 |title=Search of the energetic gamma-ray experiment telescope (EGRET) data for high-energy gamma-ray microsecond bursts</edit_text>
+<turn_user>Jehochman<turn_user>
+<turn_time>Thursday, March 3, 2011 11:27:21 AM CET</turn_time>
+<turn_topicname>Edit request from Raza536, 3 March 2011</turn_topicname>
+<turn_topictext>respected sir/Madam, I have some concepts of black hole which i want to share with every one so please allow me to edit the page to post my view point thak you Raza536 (talk) 06:45, 3 March 2011 (UTC) Raza536 (talk) 06:45, 3 March 2011 (UTC) You would need to suggest specific edits. Jehochman Talk 11:27, 3 March 2011 (UTC) Per WP:NOR, this is also probably not the best place to try to present your own ideas about black holes. The Wikipedia article is supposed to focus on information that's already been published in sources that meet the guidelines given in WP:RS (in this case, academic literature). --Christopher Thomas (talk) 19:05, 3 March 2011 (UTC)</turn_topictext>
+<turn_text>You would need to suggest specific edits. </turn_text>

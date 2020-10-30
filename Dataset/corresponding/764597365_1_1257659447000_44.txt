@@ -1,0 +1,18 @@
+<article_title>Bushfires in Australia</article_title>
+<edit_user>Anon</edit_user>
+<edit_time>2013-10-24T02:57:31Z</edit_time>
+<edit_comment>fixed ref</edit_comment>
+<edit_text>Greg Hunt uses Wikipedia research to dismiss links between climate change and bushfires</edit_text>
+<turn_user>Charbono<turn_user>
+<turn_time>11:23, 24 October 2013 </turn_time>
+<turn_topicname>New section: climate change</turn_topicname>
+<turn_topictext>I've gone ahead and created a new section with some basic background info. I thought it was relevant, esp considering the recent media coverage of Greg Hunt citing Wikipedia.[1] — Preceding unsigned comment added by Charbono (talk • contribs) 11:23, 24 October 2013 (UTC)
+
+The citation for AR5 leads to n opinion piece, the AR5 itself is not able to be cited yet (Big bold letters at the bottom of every page). SWOldfield (talk) 08:58, 25 October 2013 (UTC)
+
+Removed uncited assertion from introduction.
+
+Edited false reference to CRC report to reflect actual content (and spirit) of report. Distinguished the statements made by CRC and CSIRO. SWOldfield (talk) 09:45, 25 October 2013 (UTC)
+
+Moved superseding citation from introduction (2007 report) to section on climate change (outdated 2005 report) SWOldfield (talk) 10:05, 25 October 2013 (UTC)</turn_topictext>
+<turn_text>I've gone ahead and created a new section with some basic background info. I thought it was relevant, esp considering the recent media coverage of Greg Hunt citing Wikipedia.[1] </turn_text>

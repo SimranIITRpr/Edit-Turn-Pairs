@@ -1,0 +1,21 @@
+<article_title>Ad Astra (film)</article_title>
+<edit_user> Erik</edit_user>
+<edit_time>2019-02-28T14:53:20Z</edit_time>
+<edit_comment>Restored release date per [[WP:V]]; should not be removed because of POV perspective that date cannot be met</edit_comment>
+<edit_text> ==Release==
+''Ad Astra'' is scheduled to release on May 24, 2019, by [[20th Century Fox]].&lt;ref name=BOM&gt;{{cite web|accessdate=2018-11-20|title=Ad Astra (2019) - Box Office Mojo|url=https://www.boxofficemojo.com/movies/?id=adastra.htm|website=www.boxofficemojo.com}}&lt;/ref&gt; It was previously scheduled for January 11, 2019.&lt;ref&gt;{{cite web|last1=McNary|first1=Dave|title=Brad Pitt’s Sci-Fi Movie ‘Ad Astra’ to Hit Theaters in January 2019|url=https://variety.com/2017/film/news/brad-pitt-ad-astra-release-date-1202559836/|publisher=Variety|accessdate=7 April 2018|date=14 September 2017}}&lt;/ref&gt;</edit_text>
+<turn_user>Erike<turn_user>
+<turn_time>17:07, 25 February 2019 (UTC)</turn_time>
+<turn_topicname>Release date</turn_topicname>
+<turn_topictext>Regarding this film's release date, I restored it after JFL43 removed it with the personal claim that it will not be released at that time. The editor removed it again, but Debresser restored the details. Wikipedia is based on verifiability, and this is the most current reliably-sourced information that we know. For example, for The Rhythm Section, it looked like it would possibly be released this month, but it was postponed, and sources wrote about it. We need to do the same here and wait for sources to notice this, especially since the distributor made a firm and specific announcement. It was not a nebulous "sometime next year" statement. Let's keep it until we see what sources write. In the meantime, we could even include commentary from sources about a lack of marketing, if they exist. Erik (talk | contrib) (ping me) 17:07, 25 February 2019 (UTC)
+
+JFL43 got blocked, and I just noticed the page history of the constant removals. (I did not think to look before.) Hopefully my comment above will contextualize why the content should stay. Erik (talk | contrib) (ping me) 17:10, 25 February 2019 (UTC)
+
+Here is an article just today (Feb 28) about it being released. This is what I mean by waiting on sources to notice release details. Erik (talk | contrib) (ping me) 16:16, 28 February 2019 (UTC)
+
+Here is commentary about a potential delay. We can expand the "Release" section to reflect this current information. Erik (talk | contrib) (ping me) 17:41, 28 February 2019 (UTC)
+
+It will be released on Thursday September 19 here in New Zealand.
+Just watched it today at Cineworld in the UK so that release date is most definitely wrong Jellinator (talk) 15:12, 18 September 2019 (UTC)</turn_topictext>
+<turn_text> Regarding this film's release date, I restored it after JFL43 removed it with the personal claim that it will not be released at that time. The editor removed it again, but Debresser restored the details. Wikipedia is based on verifiability, and this is the most current reliably-sourced information that we know. For example, for The Rhythm Section, it looked like it would possibly be released this month, but it was postponed, and sources wrote about it. We need to do the same here and wait for sources to notice this, especially since the distributor made a firm and specific announcement. It was not a nebulous "sometime next year" statement. Let's keep it until we see what sources write. In the meantime, we could even include commentary from sources about a lack of marketing, if they exist. Erik (talk | contrib) (ping me) 17:07, 25 February 2019 (UTC)
+ </turn_text>

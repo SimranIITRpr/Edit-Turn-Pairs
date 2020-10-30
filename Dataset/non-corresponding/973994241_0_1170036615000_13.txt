@@ -1,0 +1,14 @@
+<article_title>Birds of Prey (2020 film)</article_title>
+<edit_user>TheJoebro64</edit_user>
+<edit_time>2018-12-02T12:41:28Z</edit_time>
+<edit_comment>Unexplained reverts that restored incomprehensible prose and unnecessary info</edit_comment>
+<edit_text>[[DC Films]] had finalized a deal with [[Cathy Yan]] to direct, making her the first female Asian director to direct a superhero film.</edit_text>
+<turn_user>TropicAces,<turn_user>
+<turn_time>216:05, 27 July 2020</turn_time>
+<turn_topicname>Editing warring by user</turn_topicname>
+<turn_topictext>JRobinson99 continues to revert my (and other’s) edits, particularly the line of criticism in the lede section. I’ve requested protection for the page and left a note on his Talk page (of which he had been warned already several times over the last three months), but want to create as many notes as possible, just to be clear he was warned about vandalism. TropicAces (talk) 16:05, 27 July 2020 (UTC)
+
+I find this edit war a little confusing. I don't get why JRobinson99 did not make any effort to start a discussion here.
+The critical response section says "thanks in large part to the stiletto-sharp screenplay by Christina Hodson" but it also says "The screenplay should never have been filmed", so someone could make a reasonable argument about WP:FILMLEAD and discuss that the Critical response section does not really have enough references to support any generalization, nevermind the negative generalization about "criticism towards Hodson's screenplay" in the intro. Also Metacritic says the film received "mixed reviews" but the intro makes it seem like this film was strongly praised.
+I don't want to argue over it but I would like to see someone improve the Critical response section so that it properly supports and justifies whatever claims are made in the lead</turn_topictext>
+<turn_text>JRobinson99 continues to revert my (and other’s) edits, particularly the line of criticism in the lede section. I’ve requested protection for the page and left a note on his Talk page (of which he had been warned already several times over the last three months), but want to create as many notes as possible, just to be clear he was warned about vandalism. . </turn_text>

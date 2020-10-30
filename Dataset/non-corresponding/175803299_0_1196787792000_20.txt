@@ -1,0 +1,29 @@
+<article_title>Amino_acid</article_title>
+<edit_user>TimVickers</edit_user>
+<edit_time>Tuesday, December 4, 2007 10:47:35 PM CET</edit_time>
+<edit_comment>rv deletion</edit_comment>
+<edit_text><strong>===Non-protein functions===
+The twenty standard amino acids are either used to synthesize proteins and other biomolecules, or oxidized to [[urea]] and carbon dioxide as a source of energy.&amp;lt;ref&amp;gt;{{cite journal |author=Sakami W, Harrington H |title=Amino acid metabolism |journal=Annu Rev Biochem |volume=32 |issue= |pages=355-98 |year= |pmid=14144484}}&amp;lt;/ref&amp;gt; The oxidation pathway starts with the removal of the amino group by a [[transaminase]], the amino group is then fed into the [[urea cycle]]. The other product of transamidation is a [[keto acid]] that enters the citric acid cycle.&amp;lt;ref&amp;gt;{{cite journal |author=Brosnan J |title=Glutamate, at the interface between amino acid and carbohydrate metabolism |url=http://jn.nutrition.org/cgi/content/full/130/4/988S |journal=J Nutr |volume=130 |issue=4S Suppl |pages=988S-90S |year=2000 |pmid=10736367}}&amp;lt;/ref&amp;gt; [[Glucogenic amino acid]]s can also be converted into glucose, through [[gluconeogenesis]].&amp;lt;ref&amp;gt;{{cite journal |author=Young V, Ajami A |title=Glutamine: the emperor or his clothes? |url=http://jn.nutrition.org/cgi/content/full/131/9/2449S |journal=J Nutr |volume=131 |issue=9 Suppl |pages=2449S-59S; discussion 2486S-7S |year=2001 |pmid=11533293}}&amp;lt;/ref&amp;gt;
+
+Hundreds of types of non-protein amino acids have been found in nature and they have multiple functions in living organisms.  [[Microorganism]]s and plants can produce uncommon amino acids. In microbes, examples include [[2-aminoisobutyric acid]] and [[lanthionine]], which is a sulfide-bridged alanine dimer. Both these amino acids are both found in peptidic [[lantibiotics]] such as [[alamethicin]].&amp;lt;ref&amp;gt;{{cite journal | author = Whitmore L, Wallace B | title = Analysis of peptaibol sequence composition: implications for ''in vivo'' synthesis and channel formation. | journal = Eur Biophys J | volume = 33 | issue = 3 | pages = 233-7 | year = 2004 | pmid =  14534753}}&amp;lt;/ref&amp;gt; While in plants, [[1-Aminocyclopropane-1-carboxylic acid]] is a small disubstituted cyclic amino acid that is a key intermediate in the production of the plant [[hormone]] [[ethylene]].&amp;lt;ref&amp;gt;{{cite journal | author = Alexander L, Grierson D | title = Ethylene biosynthesis and action in tomato: a model for climacteric fruit ripening | url=http://jxb.oxfordjournals.org/cgi/content/full/53/377/2039 | journal = J Exp Bot | volume = 53 | issue = 377 | pages = 2039-55 | year = 2002 | pmid =  12324528}}&amp;lt;/ref&amp;gt;
+
+In humans, non-protein amino acids also have biologically-important roles. [[Glycine]], [[gamma-aminobutyric acid]] and [[glutamate]] are [[neurotransmitter]]s and many amino acids are used to synthesize other molecules, for example:
+
+* [[Tryptophan]] is a precursor of the neurotransmitter [[serotonin]]
+* [[Glycine]] is a precursor of [[porphyrins]] such as [[heme]]
+* [[Arginine]] is a precursor of [[nitric oxide]]
+* [[Carnitine]] is used in [[lipid]] transport within a [[cell (biology)|cell]], 
+* [[Ornithine]] and [[S-Adenosyl methionine|S-adenosylmethionine]] are precursors of [[polyamine]]s, 
+* [[Homocysteine]] is an intermediate in [[S-Adenosyl methionine|S-adenosylmethionine]] recycling
+
+Also present are [[hydroxyproline]], [[hydroxylysine]], and [[sarcosine]]. The [[thyroid hormone]]s are also alpha-amino acids.
+
+Some amino acids have even been detected in [[meteorite]]s, especially in a type known as [[carbonaceous chondrite]]s.&amp;lt;ref&amp;gt;{{cite journal | author = Llorca J | title = Organic matter in meteorites. | url=http://www.im.microbios.org/0704/0704239.pdf | journal = Int Microbiol | volume = 7 | issue = 4 | pages = 239-48 | year = 2004 | pmid =  15666244}}&amp;lt;/ref&amp;gt; This observation has prompted the suggestion that life may have arrived on earth from an [[Origin of life|extraterrestrial source]].
+
+</strong>
+General structure</edit_text>
+<turn_user>TimVickers<turn_user>
+<turn_time>Tuesday, December 4, 2007 6:03:12 PM CET</turn_time>
+<turn_topicname>Cysteine</turn_topicname>
+<turn_topictext>Presentation College,There is one querry that i have . Cystein , as an amino acid ... is it Polar ? I have a text book by Richard Kent which argues thet it is Non Polar ... —Preceding unsigned comment added by 190.58.4.66 (talk) 04:40, 16 October 2007 (UTC) It is non-polar when protonated but polar when ionised. Tim Vickers 18:03, 4 December 2007 (UTC) No, its not polar in its non-ionised form. S-H and C-H bond are pretty similar. Narayanese (talk) 21:42, 19 October 2008 (UTC)</turn_topictext>
+<turn_text>It is non-polar when protonated but polar when ionised. </turn_text>

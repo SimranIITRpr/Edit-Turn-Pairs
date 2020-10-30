@@ -1,0 +1,18 @@
+<article_title>Caroline Flack</article_title>
+<edit_user>Llemiles</edit_user>
+<edit_time>2020-02-16T21:28:08Z</edit_time>
+<edit_comment>following [[Talk:Caroline_Flack]] discussion removing euphemistic language for which there is no consensus, it clearly does not meet [[MOS:EUP]]. Hedging language following talk discussion to reflect that no coroners report has been received so we are merely following media reporting.</edit_comment>
+<edit_text>Deleted the reference from The Sun</edit_text>
+<turn_user>GorillaWarfare<turn_user>
+<turn_time>19:13, 15 February 2020</turn_time>
+<turn_topicname>Cause of death</turn_topicname>
+<turn_topictext>I hit an edit conflict with Gorilla Warfare (to whom thanks) trying to delete the reference from The Sun. Can all editors please remember that UK red tops and tabloids, including The Mail, Express and Sun are not reliable. - SchroCat (talk) 18:08, 15 February 2020 (UTC)
+
+I see there are quite a few sources now saying "suspected suicide". Martinevans123 (talk) 18:53, 15 February 2020 (UTC)
+And The Independent says plainly here: "A lawyer for the Flack family confirmed that Caroline took her own life and was found in her east London flat." Martinevans123 (talk) 19:11, 15 February 2020 (UTC)
+Yep, agreed that it's sufficiently reflected in the reliable sources now. The tabloids are always the first to report things like this, but they're also more willing to be wrong. GorillaWarfare (talk) 19:13, 15 February 2020 (UTC)
+I have now added with The Indy as the source. Martinevans123 (talk) 19:14, 15 February 2020 (UTC)
+@Martinevans123: The information was already in the article right before the sentence you added. GorillaWarfare (talk) 19:18, 15 February 2020 (UTC)
+D'oh. I guess that doesn't make it any more true, then. Sorry. Martinevans123 (talk) 19:25, 15 February 2020 (UTC)
+Please note that in the UK "suicide" is a conclusion (verdict) that coroners come to, and there hasn't been an inquest yet. That's why none of the sources use the word suicide. I don't know if Wikipedia wants to pre-empt the coroners court, or if it wants to use the alternative wording given by the sources instead. DanBCDanBC (talk) 00:12, 16 February 2020 (UTC)</turn_topictext>
+<turn_textYep, agreed that it's sufficiently reflected in the reliable sources now. The tabloids are always the first to report things like this, but they're also more willing to be wrong.</turn_text>

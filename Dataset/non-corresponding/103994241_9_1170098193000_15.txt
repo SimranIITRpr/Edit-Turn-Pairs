@@ -1,0 +1,32 @@
+<article_title>Auguste_Rodin</article_title>
+<edit_user>Outriggr</edit_user>
+<edit_time>Monday, January 29, 2007 3:00:54 AM CET</edit_time>
+<edit_comment>ref fixes etc</edit_comment>
+<edit_text>In Brussels, Rodin created his first full-scale work, The Age of Bronze, having returned from Italy. Modelled by a Belgian soldier, the figure drew inspiration from Michelangelo's Dying Slave, which Rodin had observed at the Louvre. Rodin, attempting to combine Michelangelo's mastery of the human form with his own sense of human nature,<strong> Rodin</strong> studied his model from all angles, at rest and in motion; he mounted a ladder for additional perspective, and made clay models, which he studied by candlelight. The result was a life-size, well-proportioned nude figure, posed unconventionally with his right hand atop his head, and his left arm held out at his side, forearm parallel to the body.</edit_text>
+<turn_user>Outriggr<turn_user>
+<turn_time>Monday, January 29, 2007 8:16:33 PM CET</turn_time>
+<turn_topicname>Review</turn_topicname>
+<turn_topictext>There's an ISBN finder on my user page - I can't find an ISBN listing on World of Rodin, 1840-1917. Amazon.com says it has an "ASIN: B000HKSXHA " I don't know what that means?
+According to Amazon.com, Janson's History of Art has seven editions - do you have an ISBN on the third? I can't find it either.Note, ISBNs aren't required, but they're a nice touch, and make it easier to find the exact version you used - I can't find it on Amazon.com
+It would be good to diversify the Hale sources - it's old, and I can't find commentary on how good it is.
+Referencing looks very good, but Quoted in Flash presentation of. National Gallery of Art, Washington, D.C.. Retrieved on 2006-12-12. should be NGA Sculpture Galleries: Auguste Rodin as title.
+Since GroveArt requires a subscription, you might delink it from the title, adding it at the end as "Available at ... " Since it's a magazine, you're not required to add a URL, but some object to clicking on a URL and finding fee required (I don't).
+Can you switch to one, consistent date format in refs?
+I'm unclear on ref placement here - maybe you can investigate? (For example, as a result of this limit, The Burghers of Calais is found in 14 cities.)[30]
+Found a weasle here: Although Rodin used several models for some of his sculptures, Camille Claudel is thought to be the main model for several of his works. (cite needed - thought according to whom?)
+Not sure why, but this sentence structure isn't working for me - Lacking features such as arms, legs, or a head, fragments like The Walking Man, Meditation without Arms, Iris, Messenger of the Gods are notable examples.
+I'd like to see more citations for two reasons: 1) it's a bio, and 2) it's about a "subjective" subject (art). For example: Rodin increasingly sought more soothing female companionship in Paris, and Rose stayed in the background. And: The two formed a passionate but stormy relationship, and influenced each other artistically. And: Decades after the charges of surmoulage early in his career, he was still sensitive to the controversy—he ensured that the size or design of his figures made it obvious that his creations were entirely his.
+That's the surface stuff - I like to read a hardcopy - printing it out for tonight's bedtime reading, but I'm not great at analyzing prose :-) SandygreenGeorgia (Talk) 19:23, 28 January 2007 (UTC) Three redefines in two sentences.
+Not sure what is meant by "dynamic" character, and misgivings about staleness isn't working.
+Maybe connect the first two sentences with a semi-colon, and the "yet" doesn't follow. Or connect the second and third sentences - not getting the connection.
+commas instead of semi-colons? Not sure.
+Expand the final sentence of the lead into a paragraph, to summarize more of the article.
+See WP:MOS - I think foreign phrases are italicized.
+Connect the two sentences with a semi-colon - do we know why he was denied?
+Use an em dash for the attempting clause?
+Hard date may need a cite.
+I stopped there - it's really quite excellent, but since I know nothing of the visual arts and I'm not that good at analyzing prose, these are only ideas. Good luck - it should be ready to go quite soon! SandygreenGeorgia (Talk) 22:37, 28 January 2007 (UTC) Thanks for the review Sandy! I've addressed some of your feedback, and other points, relating to the lead and referencing variety, will (hopefully) come later. The only point that stumps me is your comment, "Can you switch to one, consistent date format in refs?". I'm not sure what this means. Do you mean the (year) information after an author's name in journal cites? All other references are showing traditional date formatting--or do you mean in the internal markup? –#112299Outriggr&amp;§ 03:10, 29 January 2007 (UTC)I meant this:Rodin, Famous Sculptor, Dead", The New York Times, November 18, 1917, p. E3.
+vs. for example"Auguste Rodin. His Sculpture And Its Aims.", The Times, 1917-11-19, p. 11.
+and then, retrieve dates:Ward-Jackson, Philip. (1) Camille Claudel. Grove Art Online, Oxford University Press. Retrieved on 2006-12-19.
+It's not basis for an object, nor a big deal, but it's nice when dates use either one format or the other. SandygreenGeorgia (Talk) 14:43, 29 January 2007 (UTC) OK, I don't see that, so it must be because of date preferences. My date format preference is set to "16:12, January 15, 2001", so the items entered as 1999-01-01 are translated. What is yours set to? In the cite templates I use because it's the most convenient way to refer to dates... in any case, I would have thought that the default date preference would change those to something more display-friendly. –#112299Outriggr&amp;§ 20:15, 29 January 2007 (UTC)</turn_topictext>
+<turn_text>OK, I don't see that, so it must be because of date preferences. My date format preference is set to "16:12, January 15, 2001", so the items entered as 1999-01-01 are translated. What is yours set to? In the cite templates I use because it's the most convenient way to refer to dates... in any case, I would have thought that the default date preference would change those to something more display-friendly. –</turn_text>

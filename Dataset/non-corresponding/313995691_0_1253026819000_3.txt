@@ -1,0 +1,11 @@
+<article_title>Brain</article_title>
+<edit_user>Tryptofish</edit_user>
+<edit_time>Monday, September 14, 2009 11:52:45 PM CEST</edit_time>
+<edit_comment>/* Arousal system */ provide cite</edit_comment>
+<edit_text>Sleep involves great changes in brain activity.&lt;ref&gt;Principles of Neural Science, Ch. 47&lt;/ref&gt; Until the 1950s it was generally believed that the brain essentially shuts off during sleep,<strong><strike>{{Fact|date=October 2008}}</strike></strong><strong>&lt;ref&gt;Kleitman, Nathaniel (1938, revised 1963, reprinted 1987) ''Sleep and Wakefulness'' (Introduction).  The University of Chicago Press, Midway Reprints series, ISBN 0-226-44073-7 &lt;/ref&gt;</strong> but this is now known to be far from true: activity continues, but the pattern becomes very different. In fact, there are two types of sleep, slow wave sleep (usually non-dreaming) and REM sleep (dreaming), each with its own distinct brain activity pattern. During slow wave sleep, activity in the cortex takes the form of large synchronized waves, where in the waking state it is noisy and desynchronized. Levels of the neurotransmitters norepinephrine and serotonin drop during slow wave sleep, and fall almost to zero during REM sleep; levels of acetylcholine show the reverse pattern.</edit_text>
+<turn_user>Tryptofish<turn_user>
+<turn_time>Tuesday, September 15, 2009 5:00:19 PM CEST</turn_time>
+<turn_topicname>unclear sentence?</turn_topicname>
+<turn_topictext>In the section Brain energy consumption, I find the sentence below to be difficult to understand. Perhaps the topic can be better explained? The demands of the brain limit its size in some species, such as bats.[78]
+- Hordaland (talk) 11:04, 15 September 2009 (UTC) Done. The source cited seems to be talking about limiting body weight in order to fly. --Tryptofish (talk) 17:00, 15 September 2009 (UTC)</turn_topictext>
+<turn_text>Done. The source cited seems to be talking about limiting body weight in order to fly. </turn_text>

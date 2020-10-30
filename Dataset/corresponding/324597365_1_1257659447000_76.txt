@@ -1,0 +1,12 @@
+<article_title>Antonio Brown</article_title>
+<edit_user>Anon</edit_user>
+<edit_time>2019-09-07T15:15:03Z</edit_time>
+<edit_comment>NA</edit_comment>
+<edit_text>Brown has fathered five children with two different women.&lt;ref&gt;{{Cite web |url=https://heavy.com/sports/2018/11/antonio-brown-kids-children-how-many/ |title=Antonio Brown’s Kids: How Many Children Does Steelers WR Have? |last=Adams |first=Jonathan |date=November 8, 2018 |website=Heavy.com |language=en |access-date=March 8, 2019}}&lt;/ref&gt; </edit_text>
+<turn_user>Fezbit<turn_user>
+<turn_time>15:06, 7 September 2019</turn_time>
+<turn_topicname>Semi-protected edit request on 7 September 2019</turn_topicname>
+<turn_topictext>In Personal Information, change "Brown has fathered five children with three different women" to "Brown has fathered five children with two different women". According to the associated source (https://heavy.com/sports/2018/11/antonio-brown-kids-children-how-many/), he only fathered children with two women. Fezbit (talk) 15:06, 7 September 2019 (UTC)
+
+ Done Thanks! NiciVampireHeart 15:14, 7 September 2019 (UTC)</turn_topictext>
+<turn_text>n Personal Information, change "Brown has fathered five children with three different women" to "Brown has fathered five children with two different women". </turn_text>

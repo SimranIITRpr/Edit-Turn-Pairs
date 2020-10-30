@@ -1,0 +1,12 @@
+<article_title>Brain</article_title>
+<edit_user>Hordaland</edit_user>
+<edit_time>Wednesday, September 16, 2009 8:26:53 AM CEST</edit_time>
+<edit_comment>/* Brain energy consumption */ not just limited in size but selected for smaller size than earlier</edit_comment>
+<edit_text>Image:PET-image.jpg Although the human brain represents only 2% of the body weight, it receives 15% of the cardiac output, 20% of total body oxygen consumption, and 25% of total body glucose utilization.&lt;ref&gt;Clark &amp; Sokoloff, 1999&lt;/ref&gt; The need to limit body weight in order to, for example, fly, <strong><strike>limits</strike></strong><strong>has lead to selection for a reduction of</strong> brain size in some species, such as bats.&lt;ref&gt;Safi et al., 2005&lt;/ref&gt; The brain mostly utilizes glucose for energy, and deprivation of glucose, as can happen in hypoglycemia, can result in loss of consciousness. The energy consumption of the brain does not vary greatly over time, but active regions of the cortex consume somewhat more energy than inactive regions: this fact forms the basis for the functional brain imaging methods PET and fMRI.&lt;ref&gt;Raichle &amp; Gusnard, 2002&lt;/ref&gt; These are nuclear medicine imaging techniques which produce a three-dimensional image of metabolic activity.</edit_text>
+<turn_user>Hordaland<turn_user>
+<turn_time>Tuesday, September 15, 2009 11:04:54 AM CEST</turn_time>
+<turn_topicname>unclear sentence?</turn_topicname>
+<turn_topictext>In the section Brain energy consumption, I find the sentence below to be difficult to understand. Perhaps the topic can be better explained? The demands of the brain limit its size in some species, such as bats.[78]
+- Hordaland (talk) 11:04, 15 September 2009 (UTC) Done. The source cited seems to be talking about limiting body weight in order to fly. --Tryptofish (talk) 17:00, 15 September 2009 (UTC)</turn_topictext>
+<turn_text>In the section Brain energy consumption, I find the sentence below to be difficult to understand. Perhaps the topic can be better explained? The demands of the brain limit its size in some species, such as bats.[78]
+- </turn_text>

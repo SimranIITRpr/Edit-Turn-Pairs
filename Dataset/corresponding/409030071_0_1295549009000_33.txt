@@ -1,0 +1,14 @@
+<article_title>Batman_(1989_film)</article_title>
+<edit_user>Ktlynch</edit_user>
+<edit_time>Thursday, January 20, 2011 7:46:43 PM CET</edit_time>
+<edit_comment>/* Production */ Wikilink to merge request</edit_comment>
+<edit_text>Production
+<strong><strike>{{merge from|Batsuit (1989)|date=January 2011}}
+</strike></strong><strong>{{merge from|Batsuit (1989)|discuss=Talk:Batman_(1989_film)#Batsuit_merge_request|date=January 2011}}
+</strong>
+Development</edit_text>
+<turn_user>Ktlynch<turn_user>
+<turn_time>Thursday, January 20, 2011 7:43:29 PM CET</turn_time>
+<turn_topicname>Batsuit merge request</turn_topicname>
+<turn_topictext>There are banners on the production section and on the article Batsuit (1989) suggesting that the latter be merged into the former; I support this. That article is completely auxiliary, uncited and duplicates information from this article. Most of it seems to be OR, and what little interesting information there is should be included in the production process here. It does not meet notability by itself. Much better treat of both of them here. Best, --Ktlynch (talk) 19:43, 20 January 2011 (UTC)</turn_topictext>
+<turn_text>There are banners on the production section and on the article Batsuit (1989) suggesting that the latter be merged into the former; I support this. That article is completely auxiliary, uncited and duplicates information from this article. Most of it seems to be OR, and what little interesting information there is should be included in the production process here. It does not meet notability by itself. Much better treat of both of them here. Best, </turn_text>

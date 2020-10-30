@@ -1,0 +1,71 @@
+<article_title>Bryozoa</article_title>
+<edit_user>Philcha</edit_user>
+<edit_time>Wednesday, July 29, 2009 8:25:46 PM CEST</edit_time>
+<edit_comment>/* Feeding zooids */ ce; funicular tissue; nervous system</edit_comment>
+<edit_text>The gut is U-shaped, running from the mouth, in the center of the lophophore, down into the animal's interior and then back to the anus, which is located on the invert, outside and usually below the lophophore.&lt;ref name=&quot;RuppertFoxBarnesBryozoa&quot; /&gt; Strands of mesothelium called &quot;funiculi&quot; (&quot;little ropes&quot;) run from the body wall. The wall of <strong><strike>the gut</strike></strong><strong>each strand is made of mesothelium,</strong> and connect to other zooids via pores in their walls, enabling autozooids to share food with each other and with any non-feeding heterozooids.&lt;ref name=&quot;RuppertFoxBarnesBryozoa&quot; /&gt; The method of connection varies between the different classes of bryozoans, ranging from quite large gaps in the body walls to small pores through which nutrients are passed by funiculi.&lt;ref name=&quot;Nielsen2001InEncOfLifeSci&quot; /&gt;&lt;ref name=&quot;RuppertFoxBarnesBryozoa&quot; /&gt;</edit_text>
+<turn_user>Philcha<turn_user>
+<turn_time>Wednesday, July 29, 2009 9:30:12 PM CEST</turn_time>
+<turn_topicname>Sources & notes</turn_topicname>
+<turn_topictext>Hopefully useful for getting this to GA --Philcha (talk) 17:31, 30 May 2009 (UTC)
+General
+http://www.earthlife.net/inverts/bryozoa.html - very probably not WP:RS, but useful checklist of points, incl. specialisation.
+http://www.sms.si.edu/IRLSpec/IntroBryozoa.htm - nice dgms
+http://www.reefkeeping.com/issues/2003-10/rs/index.php - excellent dgm of encrusting species, get Graphics Lab on this.
+http://books.google.co.uk/books?id=_ntSspji0LYC&amp;pg=PA142&amp;lpg=PA142&amp;dq=bryozoans&amp;source=bl&amp;ots=oFvbdp1jpK&amp;sig=fvzeBPk8Z68Dy7LJDWVeXwh7vBM&amp;hl=en&amp;ei=fswfSpmtCODNjAfPu4nUBg&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=5#PPA142,M1 - how to distinguish from corals; dgm of fossil; hard parts not exposed
+http://icb.oxfordjournals.org/cgi/content/full/42/3/685 (Nielsen; 2002; Integrative and Comparative Biology, 42(3):685-691; doi:10.1093/icb/42.3.685)
+Classification
+http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=155470 - the "official" name
+Feeding
+http://www.journals.uchicago.edu/doi/abs/10.1086/286214?journalCode=an (Eckman &amp; Okamura; Am Nat 1998. Vol. 152, pp. 861–880; DOI: 10.1086/286214) - effects of zooid spacing &amp; waterflow on feeding.
+http://icb.oxfordjournals.org/cgi/content/abstract/icn052v1 - effect of flow rate; invasive
+http://www.bowdoin.edu/~mpratt/pratt_2004.pdf (Pratt; 2004; Biol. Bull. 207: 17–27) - also at http://www.jstor.org/pss/1543625 and http://www.biolbull.org/cgi/content/abstract/207/1/17
+http://www3.interscience.wiley.com/journal/118558195/abstract (Strathmann; 2006; Acta Zoologica)
+Reproduction &amp; life cycle
+http://biology.bangor.ac.uk/~bss018/pdfpublications/Hughesetal2005.pdf (Hughes et al; 2005; Biol. Lett.; 1, 178–180; doi:10.1098/rsbl.2004.0259)
+Ecology
+http://icb.oxfordjournals.org/cgi/content/abstract/icn052v1 - effect of flow rate; invasive
+http://www2.biology.sc.chula.ac.th/web%20of%20NHJCU%20PDF/6-1,31-36.pdf
+http://www.cababstractsplus.orabstracts/Abstract.aspx?AcNo=20000804583 (Anderson, C. L., Canning, E. U., Okamura, B.;)
+http://cat.inist.fr/?aModele=afficheN&amp;cpsidt=18888422 (Puce et al; International Symbiosis Society Congress, 2007)
+http://www.springerlink.com/content/e8u5274k03q26483/ (Massard &amp; Geimer; 2008; Hydrobiologia) - updated at http://massard.info/pdf/SNL_2008_109_139_148.pdf (Massard &amp; Geimer; 2008; Bull. Soc. Nat. luxemb.)
+http://www.int-res.com/articles/dao2004/57/d057p221.pdf (Tops &amp; Okamura; Diseases of aquatic organisms; 2003)
+http://www3.interscience.wiley.com/journal/118558195/abstract (Strathmann; 2006; Acta Zoologica)
+And humans
+http://www.imh.mug.edu.pl/attachment/attachment/4761/2008t4.pdf
+http://books.google.co.uk/books?id=KJBKC4qvV8AC&amp;pg=RA5-PA116&amp;lpg=RA5-PA116&amp;dq=bryozoa+marine+tropical&amp;source=bl&amp;ots=99qfGjfLns&amp;sig=iDp9VOXt_n8vM2kUDja0WYgFDu0&amp;hl=en&amp;ei=4S6BSoWsDqCsjAfhzKn4Cg&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=10#v=onepage&amp;q=&amp;f=false by Robert Wynn Jones (), pub. : "Dogger bank itch", possibly due to chemical defences (p. 116) --Philcha (talk) 09:08, 11 August 2009 (UTC)
+http://books.google.co.uk/books?id=7eg2mgVcMCcC&amp;pg=PA41&amp;lpg=PA41&amp;dq=bryozoans&amp;source=bl&amp;ots=u_4zf1Z1_w&amp;sig=QBBJX2KNWA34r50BRoqksDXeSeU&amp;hl=en&amp;ei=fswfSpmtCODNjAfPu4nUBg&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=10 - rapid colonisers-&gt;they foul boats, etc.
+http://www.publish.csiro.au/paper/MF08321.htm (Smith; 2009; Marine and Freshwater Research 60(5) 475–482; DOI: 10.1071/MF08321) - measuring "the next global challenge: ocean acidification"
+I've seen hints of medicinal uses.
+http://www.int-res.com/articles/dao2004/57/d057p221.pdf (Tops &amp; Okamura; Diseases of aquatic organisms; 2003) - serious for salmon fisheries &amp; farms
+Fossil record
+http://findarticles.com/p/articles/mi_qa3790/is_200711/ai_n21137447/ (Journal of Paleontology , Nov 2007; Xia et al; http://jpaleontol.geoscienceworld.org/cgi/content/abstract/81/6/1308)
+http://www.sciencedirect.com/science?_ob=ArticleURL&amp;_udi=B83WC-4VS40GN-1&amp;_user=10&amp;_rdoc=1&amp;_fmt=&amp;_orig=search&amp;_sort=d&amp;view=c&amp;_acct=C000050221&amp;_version=1&amp;_urlVersion=0&amp;_userid=10&amp;md5=83614fd4edbfff05d2939797299e2173 (Zhang &amp; same Chinese team; Palaeoworld Volume 18, Issue 1, March 2009, Pages 67-73)
+http://www.springerlink.com/content/98x223t25ku46q16/ - early colonisers, stabilise surfaces
+http://www.geology.cz/bulletin/contents/articles-in-press/Zagorsek.pdf (Zágoršek et al; 2009; Bulletin of Geosciences 84(X), xx–xx; Czech Geological Survey, Prague; ISSN 1214-1119)
+http://www3.interscience.wiley.com/journal/118531940/abstract (Buttler et al; 2007;Palaeontology)
+http://books.google.co.uk/books?hl=en&amp;lr=&amp;id=4-jlUfCMlQkC&amp;oi=fnd&amp;pg=PA93&amp;dq=ectoprocta+bryozoa+phylogeny&amp;ots=hmB2G5OXR0&amp;sig=C7IK3Vf0vEUJdx5snK-Qb26nmzM#PPA93,M1 (ch "Deconstructing bryozoans ..", pp 93ff; Dewel et al; 2002) - nice statement of phylo problems; "highly derived"; poss explanation of why late in fossil record
+http://www.mnhn.fr/publication/geodiv/g02n2a3.pdf (Nekhorosheva; 2002; Geodiversitas) - mid-Ordov Russian bryozoa
+http://www.pubmedcentral.nih.gov/picrender.fcgi?artid=1690528&amp;blobtype=pdf (Cohen; 2000; Proc. R. Soc. Lond. B 267, 225-231) - "This inference [lophotrochozoa hypothesis], if true, undermines virtually all morphology-based reconstructions of phylogeny made during the past century or more."
+http://www.jstor.org/pss/1306433 (Horowitz et al; 1996; Journal of Paleontology) - anything more recent?
+Phylogeny
+http://www.springerlink.com/content/kf7vajfc4edfl6r1/ (Mackey et al, 1996; Journal of Molecular Evolution; doi: 10.1007/BF02352285)
+http://gump.auburn.edu/halanych/lab/Pub.pdfs/Passamaneck2004b.pdf (Passamaneck and Halanych; 2004; Evolution &amp; Development, 6:4, 275–281 )
+http://gump.auburn.edu/halanych/lab/Pub.pdfs/Passmaneck2006.pdf (Passamaneck and Halanych; July 2006; Molecular Phylogenetics and Evolution, Volume 40, Issue 1, Pages 20-28)
+http://mbe.oxfordjournals.org/cgi/content/full/24/12/2723 (Hausdorf et al; 2007; Molecular Biology and Evolution; 24(12):2723-2729; doi:10.1093/molbev/msm214)
+background-color:silverhttp://bryotechnologies.com/pdf/18S_rDNA.pdf (Wood &amp; Lore; Bryozoan Studies, 2004)
+http://icb.oxfordjournals.org/cgi/content/full/42/3/685 (Nielsen, 2002; Integrative and Comparative Biology 42(3):685-691; doi:10.1093/icb/42.3.685 ) - agin Lophophorata on morphological grounds
+http://www3.interscience.wiley.com/journal/118855324/abstract (Nielsen; 2003; Evolution &amp; Development)
+http://rspb.royalsocietypublishing.org/content/275/1645/1927.abstract (Helmkampf et al; 2008; Proc. R. Soc. B)
+http://www.sciencedirect.com/science?_ob=ArticleURL&amp;_udi=B6WNH-4VJBTR9-4&amp;_user=10&amp;_rdoc=1&amp;_fmt=&amp;_orig=search&amp;_sort=d&amp;view=c&amp;_acct=C000050221&amp;_version=1&amp;_urlVersion=0&amp;_userid=10&amp;md5=8ccac860d634ce3e8390fdc7c34d0e9a (Fuchs et al; 2009; Molecular Phylogenetics and Evolution)
+http://www.sciencedirect.com/science?_ob=ArticleURL&amp;_udi=B6WNH-4VNKGV7-1&amp;_user=10&amp;_rdoc=1&amp;_fmt=&amp;_orig=search&amp;_sort=d&amp;view=c&amp;_acct=C000050221&amp;_version=1&amp;_urlVersion=0&amp;_userid=10&amp;md5=521b1f74d3a1c8affdf12572452ecc8c (Waeschenbach; July 2009!; Molecular Phylogenetics and Evolution)
+http://www3.interscience.wiley.com/journal/118596313/abstract?CRETRY=1&amp;SRETRY=0 (Okuyama et al;2006; Zoologica Scripta)
+http://www.diss.fu-berlin.de/diss/servlets/MCRFileNodeServlet/FUDISS_derivate_000000004076/07_chapter7.pdf?hosts= looks like a ch of a book, poss conf proceedingsl latest cited works are 2007 - useful if can pin down.
+http://www-fourier.ujf-grenoble.fr/~dpiau/cdem/130124b.pdf (Halanych; 2004; Annu. Rev. Ecol. Evol. Syst.) - good on hist of theories
+http://www.sciencedirect.com/science?_ob=ArticleURL&amp;_udi=B6WNH-4PN05PJ-4&amp;_user=10&amp;_rdoc=1&amp;_fmt=&amp;_orig=search&amp;_sort=d&amp;view=c&amp;_acct=C000050221&amp;_version=1&amp;_urlVersion=0&amp;_userid=10&amp;md5=1e56b8f48b24e4569891ae2bbf85f5ac (Helmkampf et al; 2008; Molecular Phylogenetics and Evolution)
+http://books.google.co.uk/books?hl=en&amp;lr=&amp;id=4-jlUfCMlQkC&amp;oi=fnd&amp;pg=PA93&amp;dq=ectoprocta+bryozoa+phylogeny&amp;ots=hmB2G5OXR0&amp;sig=C7IK3Vf0vEUJdx5snK-Qb26nmzM#PPA93,M1 (ch "Deconstructing bryozoans ..", pp 93ff; Dewel et al; 2002) - nice statement of phylo problems; "highly derived"
+http://www.biolbull.org/cgi/content/abstract/190/1/1 (Halanych; 2006; The Biological Bulletin) - Pterobranch's "lophophores" aren't
+http://icb.oxfordjournals.org/cgi/content/full/46/4/544 (Vallès &amp; Boore; 2006; Integrative and Comparative Biology, Volume 46, Number 4, pp. 544-557) - good descr of phylo history --Philcha (talk) 10:30, 13 August 2009 (UTC)
+Images
+http://library.thinkquest.org/26153/marine/bryozoa.htm the best I saw in Google images
+http://www.earthlife.net/inverts/bryozoa.html --Philcha (talk) 21:30, 29 July 2009 (UTC)</turn_topictext>
+<turn_text>I just tried to post a video of a live one, but it got denied because of the nazi mods. autosigned—Preceding unsigned comment added by </turn_text>

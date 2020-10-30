@@ -1,0 +1,10 @@
+<article_title>Amino_acid</article_title>
+<edit_user>169.244.70.157</edit_user>
+<edit_time>Monday, October 20, 2008 1:15:57 PM CEST</edit_time>
+<edit_comment>/* Non-protein functions */</edit_comment>
+<edit_text>Some amino acids have even been detected in meteorites, especially in a type known as carbonaceous chondrites.&lt;ref&gt;&lt;/ref&gt; This observation has prompted the suggestion that life may have arrived on earth from an extraterrestrial source. The Murchison meteorite is especially rich in amino acids and other organic matter<strong> i like boys</strong>.</edit_text>
+<turn_user>Narayanese<turn_user>
+<turn_time>Sunday, October 19, 2008 9:42:35 PM CEST</turn_time>
+<turn_topicname>Cysteine</turn_topicname>
+<turn_topictext>Presentation College,There is one querry that i have . Cystein , as an amino acid ... is it Polar ? I have a text book by Richard Kent which argues thet it is Non Polar ... —Preceding unsigned comment added by 190.58.4.66 (talk) 04:40, 16 October 2007 (UTC) It is non-polar when protonated but polar when ionised. Tim Vickers 18:03, 4 December 2007 (UTC) No, its not polar in its non-ionised form. S-H and C-H bond are pretty similar. Narayanese (talk) 21:42, 19 October 2008 (UTC)</turn_topictext>
+<turn_text>No, its not polar in its non-ionised form. S-H and C-H bond are pretty similar. </turn_text>

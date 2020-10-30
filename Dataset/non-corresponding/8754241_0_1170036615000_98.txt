@@ -1,0 +1,12 @@
+<article_title>Abhijit Banerjee</article_title>
+<edit_user>Pharaoh of the Wizards</edit_user>
+<edit_time>2019-10-14T19:49:36Z</edit_time>
+<edit_comment>Abhijit Banerjee was born in Mumbai added CNN and Outlook as Ref along with Economic Times and Statesman.</edit_comment>
+<edit_text>Banerjee was born in [[Mumbai]], [[India]]</edit_text>
+<turn_user>Sitush<turn_user>
+<turn_time>15:29, 19 October 2019</turn_time>
+<turn_topicname>A note regarding plagiarism</turn_topicname>
+<turn_topictext>Please be aware that this article published on November 2011 by The Telegraph clearly takes some of its information from our article, which had the same material in July of that year. - Sitush (talk) 15:23, 19 October 2019 (UTC)
+
+This one from Presidency College is also problematic. The Wayback Machine shows it being available on their website in February 2012 but not earlier. It was already in our article before then. Of course, Wayback may have just not crawled the Presidency site prior to that date and in that case we may well be in breach of their copyright./turn_topictext>
+<turn_text>This one from Presidency College is also problematic. The Wayback Machine shows it being available on their website in February 2012 but not earlier. It was already in our article before then. Of course, Wayback may have just not crawled the Presidency site prior to that date and in that case we may well be in breach of their copyright..</turn_text>

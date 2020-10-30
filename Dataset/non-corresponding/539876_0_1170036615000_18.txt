@@ -1,0 +1,13 @@
+<article_title>Caroline Flack</article_title>
+<edit_user>GorillaWarfare</edit_user>
+<edit_time>2020-02-15T18:05:44Z</edit_time>
+<edit_comment>'The Sun'' is not a reliable source</edit_comment>
+<edit_text>Deleted the reference from The Sun</edit_text>
+<turn_user>Martinevans123<turn_user>
+<turn_time>10:10, 16 February 2020 </turn_time>
+<turn_topicname>"Radio presenter"?</turn_topicname>
+<turn_topictext>Apart from a mention of a single show in 2014 and a series in 2016, I can't find much in the article that would justify the prominence of the word "radio" in the opening sentence of the article and the infobox. She was known as a television presenter. Should the words "Radio and..." be removed - or, at least, be made far less prominent in the article? Ghmyrtle (talk) 09:42, 16 February 2020 (UTC)
+
+Yes, I agree. Should be less prominent or removed. Martinevans123 (talk) 10:10, 16 February 2020 (UTC)
+Perhaps as an interim measure, I've changed the order to "television and radio presenter".</turn_topictext>
+<turn_text>Yes, I agree. Should be less prominent or removed</turn_text>

@@ -1,0 +1,10 @@
+<article_title>Amino_acid</article_title>
+<edit_user>TimVickers</edit_user>
+<edit_time>Saturday, September 29, 2007 1:45:54 AM CEST</edit_time>
+<edit_comment>/* Nutritional importance */ correct</edit_comment>
+<edit_text>Of the 20 standard proteinogenic amino acids, 10 are called essential amino acids because the human body cannot synthesize them from other compounds at the level needed for normal growth, and they therefore must be obtained from food.&lt;ref name=Reeds&gt;{{cite journal |author=<strong><strike>Reeds PJ |title=Dispensable and indispensable</strike></strong><strong>Young VR |title=Adult</strong> amino acids for humans |journal=J. Nutr. |volume=130 |issue=7 |pages=1835S–40S |year=2000 |pmid=10867060}}&lt;/ref&gt; Cysteine, tyrosine, histidine and arginine are considered as semiessential amino acids in children, because the metabolic pathways that synthesize these amino acids are not fully developed.&lt;ref&gt;&lt;/ref&gt;</edit_text>
+<turn_user>Soyseñorsnibbles<turn_user>
+<turn_time>Friday, September 28, 2007 11:00:45 PM CEST</turn_time>
+<turn_topicname>Essential</turn_topicname>
+<turn_topictext>i have a health book that says there are nine essential and 11 nonessential amino acids Soyseñorsnibbles 23:00, 28 September 2007 (UTC) This seems surprisingly ill-defined and controversial. I've added a range of references. Tim Vickers 02:39, 29 September 2007 (UTC)</turn_topictext>
+<turn_text>i have a health book that says there are nine essential and 11 nonessential amino acids </turn_text>

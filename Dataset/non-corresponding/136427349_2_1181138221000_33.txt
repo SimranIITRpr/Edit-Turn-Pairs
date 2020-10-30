@@ -1,0 +1,10 @@
+<article_title>Antibody</article_title>
+<edit_user>Ciar</edit_user>
+<edit_time>Wednesday, June 6, 2007 7:50:53 PM CEST</edit_time>
+<edit_comment>/* Heavy chain */ rw</edit_comment>
+<edit_text>Image:Immunoglobulin basic unit.svg The variable region of the heavy chain is different for each individual B cell, but is the same for all <strong><strike>immunoglobulin</strike></strong><strong>antibodie</strong>s produced by the same B cell or B cell clone. The variable domain of any heavy chain is composed of a single immunoglobulin domain. These domains are each about 110 amino acids long.</edit_text>
+<turn_user>TimVickers<turn_user>
+<turn_time>Wednesday, June 6, 2007 3:57:01 PM CEST</turn_time>
+<turn_topicname>History</turn_topicname>
+<turn_topictext>I've noticed that a lot of reviewers want to see history sections in articles when they are proposed for the higher levels (!) so I put together a little mish-mash of history that I could find out there. I can't seem to make it flow though...any good copy-editors want to have a go?? Ciar 05:13, 6 June 2007 (UTC) Ciar 21:27, 20 May 2007 (UTC) Done. TimVickers 15:57, 6 June 2007 (UTC)</turn_topictext>
+<turn_text>Done. </turn_text>

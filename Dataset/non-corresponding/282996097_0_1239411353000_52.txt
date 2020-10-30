@@ -1,0 +1,13 @@
+<article_title>Aspirin</article_title>
+<edit_user>Colin</edit_user>
+<edit_time>Friday, April 10, 2009 4:01:51 PM CEST</edit_time>
+<edit_comment>[[WP:UNDO|Undid]] revision 282995581 by [[Special:Contributions/Facts707|Facts707]] ([[User talk:Facts707|talk]]) the is article is about a drug, not a brand-name. the trademark issues are minor.</edit_comment>
+<edit_text><strong><strike>==Trademark in most countries==
+</strike></strong>
+Trademark in most countries
+As part of war reparations specified in the 1919 Treaty of Versailles following Germany's surrender after World War I, Aspirin (along with Heroin) lost its status as a registered trademark in France, Russia, the United Kingdom, and the United States, where it became a generic name and can be spelled in lower case.&lt;ref&gt;</edit_text>
+<turn_user>76.66.190.190<turn_user>
+<turn_time>Saturday, April 11, 2009 2:55:53 AM CEST</turn_time>
+<turn_topicname>Redirect</turn_topicname>
+<turn_topictext>Why does aspirin not direct here, but instead redirect to robert aspirin? The mediciation is much more notable, especially when you consider all the phenominally large group of people who take it. I've never even heard of Robert Aspirin, but that said, maybe it's an American thing. Can we please redirect here? 128.250.5.245 (talk) 04:38, 8 April 2009 (UTC) Actually aspirin is the title of this article and does not rediret to that article. What does redirect there is Asprin which is speelled differently and is the person's last name of Robert Asprin. --76.66.190.190 (talk) 02:44, 11 April 2009 (UTC)To add another point is that the issue here is not whether the drug or the man is more notiable. It is wherether there is evidence that more people typing Asprin are mispelling Aspirin that looking for Robert Asprin. If there is not it would probabally be best to leave the redirect where it due to spelling issues and the fact that this page can easily be found with the hatlink on the other page.--76.66.190.190 (talk) 02:55, 11 April 2009 (UTC)</turn_topictext>
+<turn_text>To add another point is that the issue here is not whether the drug or the man is more notiable. It is wherether there is evidence that more people typing Asprin are mispelling Aspirin that looking for Robert Asprin. If there is not it would probabally be best to leave the redirect where it due to spelling issues and the fact that this page can easily be found with the hatlink on the other page.--76.66.190.190 (</turn_text>

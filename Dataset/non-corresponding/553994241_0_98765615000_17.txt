@@ -1,0 +1,14 @@
+<article_title>Billie Eilish</article_title>
+<edit_user>Aitch</edit_user>
+<edit_time>2019-11-19T15:10:15Z</edit_time>
+<edit_comment>/* Career */ sub-section not needed</edit_comment>
+<edit_text>On November 7, 2019, [[Jack White]]'s [[Third Man Records]] announced the label would be releasing an acoustic live album of Eilish's performance from the record label's Blue Room. The album will be available exclusively on vinyl at Third Man retail locations in [[Nashville]], [[Tennessee]] and [[Detroit]], [[Michigan]].&lt;ref&gt;https://www.spin.com/2019/11/billie-eilish-jack-white-live-album/&lt;/ref&gt; On November 13, 2019, she released her next single, "[[Everything I Wanted (Billie Eilish song)|Everything I Wanted]]". According to ''Genius'', it is the lead single from her upcoming second studio album.&lt;ref&gt;{{cite news| url=https://genius.com/Billie-eilish-everything-i-wanted-lyrics|title=Billie Eilish - Everything I Wanted Genius Lyrics|date=13 Nov 2019|accessdate=17 Nov 2019}}&lt;/ref&gt;</edit_text>
+<turn_user>Leyarburns<turn_user>
+<turn_time> 20:07, 23 January 2020</turn_time>
+<turn_topicname>Name in early life section</turn_topicname>
+<turn_topictext>Hi @Trillfendi - would you mind expanding on why you undid my edit to the early life section? Of course, she was born with the last name O'Connell, but the entire article, when not using her full name, refers to her as "Eilish" rather than "O'Connell." Is there a compelling reason to keep referring to her as O'Connell in this section? Other notable people who go by a different professional name are referred to by that professional last name throughout their articles (for example, Martin Sheen or Cary Grant). I had thought that changing it would add to the article's clarity, but happy to keep as is if that's more in keeping with Wikipedia in general. Leyarburns (talk) 18:29, 17 January 2020 (UTC)
+
+During that time, she was just O'Connell and she hadn't established herself as Billie Eilish yet.100cellsman (talk) 19:51, 17 January 2020 (UTC)
+Fair enough, thank you for clarifying</turn_topictext>
+<turn_text>During that time, she was just O'Connell and she hadn't established herself as Billie Eilish yet.100cellsman (talk) 19:51, 17 January 2020 (UTC)
+Fair enough, thank you for clarifying </turn_text>

@@ -1,0 +1,10 @@
+<article_title>Antibody</article_title>
+<edit_user>Ciar</edit_user>
+<edit_time>Wednesday, June 6, 2007 7:42:03 PM CEST</edit_time>
+<edit_comment>/* Immunoglobulin domains */ and another</edit_comment>
+<edit_text>The Ig monomer is a &quot;Y&quot;-shaped molecule that consists of four polypeptide chains; two identical heavy chains and two identical light chains connected by disulfide bonds.&lt;ref name = woof/&gt; Each <strong><strike>antibody </strike></strong>chain is composed of structural domains called immunoglobulin (Ig) domains. These domains contain about 70-110 amino acids and are classified into different categories (for example, variable or IgV, and constant or IgC) according to their size and function.&lt;ref&gt;&lt;/ref&gt; They possess a characteristic immunoglobulin fold in which two beta sheets create a “sandwich” shape, held together by interactions between conserved cysteines and other charged amino acids. Although antibodies were the first molecules in which these domains were identified, Ig-like domains are found in all proteins of the immunoglobulin superfamily (IgSF).</edit_text>
+<turn_user>Ciar<turn_user>
+<turn_time>Wednesday, June 6, 2007 5:13:54 AM CEST</turn_time>
+<turn_topicname>History</turn_topicname>
+<turn_topictext>I've noticed that a lot of reviewers want to see history sections in articles when they are proposed for the higher levels (!) so I put together a little mish-mash of history that I could find out there. I can't seem to make it flow though...any good copy-editors want to have a go?? Ciar 05:13, 6 June 2007 (UTC) Ciar 21:27, 20 May 2007 (UTC) Done. TimVickers 15:57, 6 June 2007 (UTC)</turn_topictext>
+<turn_text>I've noticed that a lot of reviewers want to see history sections in articles when they are proposed for the higher levels (!) so I put together a little mish-mash of history that I could find out there. I can't seem to make it flow though...any good copy-editors want to have a go?? </turn_text>

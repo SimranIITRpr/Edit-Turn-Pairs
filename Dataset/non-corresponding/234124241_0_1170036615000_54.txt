@@ -1,0 +1,10 @@
+<article_title>Talk:Bigg Boss (Hindi season 13)</article_title>
+<edit_user>Jéské Couriano</edit_user>
+<edit_time>2019-12-31T04:44:34Z</edit_time>
+<edit_comment>Reverted edits by [[Special:Contribs/ShadaB boy|ShadaB boy]] </edit_comment>
+<edit_text>Reverted</edit_text>
+<turn_user>Sonder000<turn_user>
+<turn_time> 11:35, 13 November 2019 (UTC)</turn_time>
+<turn_topicname>Remove winner's Name</turn_topicname>
+<turn_topictext>The Bigg Boss (Hindi season 13) is still running and will end in the month of January. However, the name of the winner and runner-up are displayed in the description of the search engine. Can we remove it?</turn_topictext>
+<turn_text>The Bigg Boss (Hindi season 13) is still running and will end in the month of January. However, the name of the winner and runner-up are displayed in the description of the search engine. Can we remove it?</turn_text>

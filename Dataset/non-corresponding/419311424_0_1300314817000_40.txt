@@ -1,0 +1,13 @@
+<article_title>Black_hole</article_title>
+<edit_user>Headbomb</edit_user>
+<edit_time>Thursday, March 17, 2011 3:42:44 PM CET</edit_time>
+<edit_comment>clean up using [[Project:AWB|AWB]]</edit_comment>
+<edit_text>|issue=1 |year=2006 |pages=518–539
+<strong><strike> |id={{arxiv|astro-ph|0606076}}
+</strike></strong><strong> |arxiv=astro-ph/0606076
+</strong> |doi=10.1086/508457 |ref=harv}}&lt;/ref&gt; appears to have an angular momentum near the maximum allowed value.</edit_text>
+<turn_user>Nagualdesign<turn_user>
+<turn_time>Wednesday, March 16, 2011 11:33:37 PM CET</turn_time>
+<turn_topicname>Properties and structure</turn_topicname>
+<turn_topictext>Maybe WP isn't the place to pose such a question, but the article states that "a charged black hole repels other like charges just like any other charged object." [emphasis added] However, according to the Standard Model of particle physics electric charge is mediated by virtual photons. Given that nothing can escape the pull of a black hole, how can a charged black hole propagate an electric field? Curvature of charge-space?! Any pointers would be greatly appreciated. :) nagualdesign (talk) 00:22, 3 March 2011 (UTC) WP indeed isn't the place to ask this question.The picture of forces in the standard model being mediated by virtual particles shouldn't be taken to literally. It is a graphic way of systematizing the terms in the perturbation expansion, nothing more.The word virtual in virtual particle means that the particle doesn't obey the (classical) equation of motion. In particular, a virtual particle can "move" a speeds greater than the speed of light. This is not an issue because virtual particles weren't physical to begin with. (e.g. they also do not need to conserve energy).The electric field of a charged black hole is static, hence nothing is propagating anywhere.More intuitively. Electric charges respond to the retarded potential. In the case of a cloud of charged matter collapsing to a black hole, charges outside the black hole will see the matter as frozen at the horizon and respond to that.TR 09:33, 3 March 2011 (UTC) Thanks for the feedback, Tim. Lot's of good food for thought there. And I apologize for 1. - I'll try to maintain my contribution/question ratio at a higher level in future. :) nagualdesign (talk) 00:56, 6 March 2011 (UTC) (above section collapsed by nagualdesign (talk) 23:33, 16 March 2011 (UTC). Please do not delete it.)</turn_topictext>
+<turn_text>Thanks for the feedback, Tim. Lot's of good food for thought there. And I apologize for 1. - I'll try to maintain my contribution/question ratio at a higher level in future. :) </turn_text>

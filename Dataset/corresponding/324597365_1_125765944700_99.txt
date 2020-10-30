@@ -1,0 +1,24 @@
+<article_title>Andy Reid</article_title>
+<edit_user>TiMike</edit_user>
+<edit_time>2010-05-07T01:39:26Z</edit_time>
+<edit_comment>/* External links */ updating link</edit_comment>
+<edit_text>==External links==
+*[http://www.philadelphiaeagles.com/eagles_files/html/coach_reid_1.html Philadelphia Eagles: Head Coach Andy Reid] '''official team biography'''
+*[http://www.theatlantic.com/doc/200810/nfl-eagles Distant Replay: An Interview With Andy Reid]</edit_text>
+<turn_user>TiMike<turn_user>
+<turn_time>19:57, 5 July 2017</turn_time>
+<turn_topicname>External links modified</turn_topicname>
+<turn_topictext>Hello fellow Wikipedians,
+
+I have just modified 2 external links on Andy Reid. Please take a moment to review my edit. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit this simple FaQ for additional information. I made the following changes:
+
+Added {{dead link}} tag to http://media.kcchiefs.com/media/228744/andy_reid.pdf
+Added archive https://web.archive.org/web/20101125094800/http://www.philadelphiaeagles.com/eagles_files/html/coach_reid_1.html to http://www.philadelphiaeagles.com/eagles_files/html/coach_reid_1.html
+Added archive https://web.archive.org/web/20110712223720/http://blog.houstontexans.com/2010/11/30/eagles-reid-muses-on-former-pupil-pollack/ to http://blog.houstontexans.com/2010/11/30/eagles-reid-muses-on-former-pupil-pollack/
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+As of February 2018, "External links modified" talk page sections are no longer generated or monitored by InternetArchiveBot. No special action is required regarding these talk page notices, other than regular verification using the archive tool instructions below. Editors have permission to delete these "External links modified" talk page sections if they want to de-clutter talk pages, but see the RfC before doing mass systematic removals. This message is updated dynamically through the template {{sourcecheck}} (last update: 15 July 2018).
+
+If you have discovered URLs which were erroneously considered dead by the bot, you can report them with this tool.
+If you found an error with any archives or the URLs themselves, you can fix them with this tool.</turn_topictext>
+<turn_text>Added archive https://web.archive.org/web/20101125094800/http://www.philadelphiaeagles.com/eagles_files/html/coach_reid_1.html to http://www.philadelphiaeagles.com/eagles_files/html/coach_reid_1.html </turn_text>

@@ -1,0 +1,12 @@
+<article_title>Birds of Prey (2020 film)</article_title>
+<edit_user>TheJoebro64</edit_user>
+<edit_time>2018-12-02T12:41:28Z</edit_time>
+<edit_comment>Unexplained reverts that restored incomprehensible prose and unnecessary info</edit_comment>
+<edit_text>[[DC Films]] had finalized a deal with [[Cathy Yan]] to direct, making her the first female Asian director to direct a superhero film.</edit_text>
+<turn_user>TheJoebro64,<turn_user>
+<turn_time>21:26, 2 December 2018 </turn_time>
+<turn_topicname>Reverts</turn_topicname>
+<turn_topictext>@Hayholt and OhsalveelCesar, explain to me how these edits aren't improvements.
+
+The prose is absolutely incomprehensible. An example: "On April 17, 2018, Cathy Yan was reported to be the director of the film, becoming the third female filmmaker to join the DC Extended Universe as director, after Wonder Woman‘s Patty Jenkins and Ava DuVernay (for the upcoming The New Gods), and the first female Asian director ever tapped to direct a superhero film."</turn_topictext>
+<turn_text>Cathy Yan was reported to be the director of the film, becoming the third female filmmaker to join the DC Extended Universe as director, after Wonder Woman‘s Patty Jenkins and Ava DuVernay (for the upcoming The New Gods), and the first female Asian director ever tapped to direct a superhero film. </turn_text>

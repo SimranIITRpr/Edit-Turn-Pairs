@@ -1,0 +1,10 @@
+<article_title>John_Cage</article_title>
+<edit_user>Jpgordon</edit_user>
+<edit_time>Monday, July 27, 2009 4:01:02 PM CEST</edit_time>
+<edit_comment>/* Black Mountain, 4′33″ */</edit_comment>
+<edit_text>Cage repeatedly claimed that he composed 4′33″ in small units of silent rhythmic durations which, when summed, equalled the duration of the title. Cage suggested that he might have made a mistake in addition.&lt;ref name=&quot;itovi&quot;&gt;Gage, John. I-VI. Harvard University Press, 1990 pp.20-21&lt;/ref&gt; Some<strong>{{who}}</strong> have speculated that the title of the work refers to absolute zero, as 4’33″expressed in seconds is 273 seconds, and minus 273 degrees is absolute zero in the Celsius scale; there is, however, no evidence that this relationship is anything more than a coincidence.</edit_text>
+<turn_user>Hyacinth<turn_user>
+<turn_time>Monday, July 27, 2009 6:38:44 PM CEST</turn_time>
+<turn_topicname>Copy and Paste?</turn_topicname>
+<turn_topictext>What's with the superscript that appears in the last paragraph in the Chance section? Was that just cut and paste from another source or something? The superscript should be replaced with &amp;ref&amp; tags but I'm not sure that the material it references is the one the superscript refers to. In fact, it is almost certainly not... autosigned—Preceding unsigned comment added by SlubGlub (talk • contribs) 20:13, 25 March 2009</turn_topictext>
+<turn_text>What's with the superscript that appears in the last paragraph in the Chance section? Was that just cut and paste from another source or something? The superscript should be replaced with &amp;ref&amp; tags but I'm not sure that the material it references is the one the superscript refers to. In fact, it is almost certainly not... autosigned—Preceding unsigned comment added by </turn_text>

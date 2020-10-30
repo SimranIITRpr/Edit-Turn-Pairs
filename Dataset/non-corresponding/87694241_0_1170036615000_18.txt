@@ -1,0 +1,12 @@
+<article_title>Daniel Johnston</article_title>
+<edit_user>Sumdog</edit_user>
+<edit_time>2008-07-07T03:03:22</edit_time>
+<edit_comment>added citation for second diagnosis</edit_comment>
+<edit_text>(*) [[schizophrenia]]&lt;ref name="BostonGlobe"&gt;{{cite names|url=http://www.boston.com/ae/movies/articles/2006/04/07/his_life_is_troubling_his_fame_disturbing/?rss_id=Boston%2BGlobe%2B--%2BTy%2BBurr%2B%2Bcolumns |first=Ty |last=Burr |title="His life is troubling, his fame disturbing" |date=[[2006-04-07]]}} </edit_text>
+<turn_user>Sawhitney36<turn_user>
+<turn_time>14:13, 12 September 2019 </turn_time>
+<turn_topicname>Missing Album?</turn_topicname>
+<turn_topictext>He has an album from 2006 called “Welcome To My World” Sawhitney36 (talk) 14:13, 12 September 2019 (UTC)
+
+Hi :) Welcome To My World isn't included as its a compilation of material of his from previous albums, and this page only lists the core discography. However, it is listed on the Daniel Johnston discography article.Humbledaisy (talk) 16:48, 12 September 2019 (UTC)</turn_topictext>
+<turn_text>Hi :) Welcome To My World isn't included as its a compilation of material of his from previous albums, and this page only lists the core discography. However, it is listed on the Daniel Johnston discography article.Humbledaisy (talk) 16:48, 12 September 2019 (UTC)</turn_text>

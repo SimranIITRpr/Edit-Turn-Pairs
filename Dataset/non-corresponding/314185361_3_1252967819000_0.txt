@@ -1,0 +1,10 @@
+<article_title>Brain</article_title>
+<edit_user>Ostracon</edit_user>
+<edit_time>Tuesday, September 15, 2009 8:39:15 PM CEST</edit_time>
+<edit_comment>/* How it is studied */</edit_comment>
+<edit_text>Neuroscience seeks to understand the nervous system, including the brain, from a biological and computational perspective.&lt;ref&gt;Princples of Neural Science, Ch. 1&lt;/ref&gt; Psychology seeks to understand behavior and the brain. Neurology refers to the medical applications of <strong><strike>neuroscience. </strike></strong><strong>the nervous system.</strong> The brain is also the most important organ studied in psychiatry, the branch of medicine that works to study, prevent, and treat mental disorders.&lt;ref&gt;Storrow, Outline of Clinical Psychiatry&lt;/ref&gt; Cognitive science seeks to unify neuroscience and psychology with other fields that concern themselves with the brain, such as computer science (artificial intelligence and similar fields) and philosophy.</edit_text>
+<turn_user>Hordaland<turn_user>
+<turn_time>Tuesday, September 15, 2009 12:36:59 AM CEST</turn_time>
+<turn_topicname>missing illustration?</turn_topicname>
+<turn_topictext>The last paragraph of the section Microscopic structure refers to an "illustration on the right" which seems to have gone missing. Either the image should be re-added, or the reference to it should be removed. - Hordaland (talk) 00:36, 15 September 2009 (UTC) Yeeks, you are right! I've looked back through the page history, and it wasn't deleted by mistake any time recently. I'll correct the text. Thanks for finding that! --Tryptofish (talk) 00:56, 15 September 2009 (UTC)</turn_topictext>
+<turn_text>The last paragraph of the section Microscopic structure refers to an "illustration on the right" which seems to have gone missing. Either the image should be re-added, or the reference to it should be removed. - </turn_text>

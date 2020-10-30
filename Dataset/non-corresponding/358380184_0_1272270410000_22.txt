@@ -1,0 +1,10 @@
+<article_title>Intel_8086</article_title>
+<edit_user>Ybungalobill</edit_user>
+<edit_time>Monday, April 26, 2010 10:26:56 AM CEST</edit_time>
+<edit_comment>/* Performance */ Give a reference to those sheets that officially has that timing.</edit_comment>
+<edit_text>Execution times for typical instructions, in clock cycles (see 8086 datasheets<strong> {{citation needed}}</strong>):</edit_text>
+<turn_user>Ybungalobill<turn_user>
+<turn_time>Monday, April 26, 2010 10:26:50 AM CEST</turn_time>
+<turn_topicname>Instruction timing</turn_topicname>
+<turn_topictext>Can anyone provide a reference to an official source from where these timings are taken? The datasheets given at the end of the article present only external bus timings (memory read/write is 5 clocks) but doesn't list any other information about the internal logic and ALUs. Thank you. bungalo (talk) 10:26, 26 April 2010 (UTC) One of these 5 cycles in the timing diagrams is a fully optional wait state, so the basic memory access cycle is 4 clock cycles in the 8086. 83.255.38.70 (talk) 09:42, 27 April 2010 (UTC)</turn_topictext>
+<turn_text>Interesting, please feel free to add some of this to the article (at least for my part, I've written around 60-70 percent of it, as it stands). /HenkeB font-size: smaller;autosigned—Preceding unsigned comment added by 83.255.36.148 (</turn_text>

@@ -1,0 +1,11 @@
+<article_title>Aspirin</article_title>
+<edit_user>Fuzzform</edit_user>
+<edit_time>Friday, September 26, 2008 1:32:53 AM CEST</edit_time>
+<edit_comment>/* Synthesis */ phosphoric acid is also sometimes used as a catalyst</edit_comment>
+<edit_text>Synthesis
+The synthesis of aspirin is classified as an esterification reaction, where the alcohol group from the salicylic acid reacts with an acid derivative (acetic anhydride), yielding aspirin and acetic acid as a byproduct. Small amounts of sulfuric acid<strong> (and occasionally [[phosphoric acid]])</strong> are often used as a catalyst. This method is commonly employed in undergraduate teaching labs.&lt;ref&gt;&lt;/ref&gt;</edit_text>
+<turn_user>OwenBlacker<turn_user>
+<turn_time>Thursday, September 25, 2008 11:14:26 AM CEST</turn_time>
+<turn_topicname>IPA pronunciation</turn_topicname>
+<turn_topictext>The IPA in the article lead is pretty dialect-specific. Certainly, it's not how I'd pronounce acetyl-salicylic acid in British English. Rather than ending up with several different IPAs, is that piece of information actually all that useful? Would it not make more sense to link to acetyl and salicylic acid, which should prolly have their own pronunciations in their lead sections? — OwenBlacker 11:14, 25 September 2008 (UTC) Also, every reference I can find lists the pronunciation as "a-SEE-tyl", rather than "a-SET-yl" (http://www.merriam-webster.com/dictionary/acetylsalicylic+acid, http://www.thefreedictionary.com/acetylsalicylic+acid). Could someone change it, and maybe add something as a reference? – Acdx (talk) 08:23, 30 October 2010 (UTC) FWIW my standard guide to pronunciation, the English Pronouncing Dictionary by David Jones, rev AC Gimson, pub. Dent, 14th edition 1977, gives 'æstl. No comment from me, but at least you have a reference. Haven't edited article. Pol098 (talk) 15:57, 30 October 2010 (UTC)</turn_topictext>
+<turn_text>The IPA in the article lead is pretty dialect-specific. Certainly, it's not how I'd pronounce acetyl-salicylic acid in British English. Rather than ending up with several different IPAs, is that piece of information actually all that useful? Would it not make more sense to link to acetyl and salicylic acid, which should prolly have their own pronunciations in their lead sections? — OwenBlacker </turn_text>

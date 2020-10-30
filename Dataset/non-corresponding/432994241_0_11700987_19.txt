@@ -1,0 +1,15 @@
+<article_title>Ad Astra (film)</article_title>
+<edit_user> Erik</edit_user>
+<edit_time>2019-02-28T14:53:20Z</edit_time>
+<edit_comment>Restored release date per [[WP:V]]; should not be removed because of POV perspective that date cannot be met</edit_comment>
+<edit_text> ==Release==
+''Ad Astra'' is scheduled to release on May 24, 2019, by [[20th Century Fox]].&lt;ref name=BOM&gt;{{cite web|accessdate=2018-11-20|title=Ad Astra (2019) - Box Office Mojo|url=https://www.boxofficemojo.com/movies/?id=adastra.htm|website=www.boxofficemojo.com}}&lt;/ref&gt; It was previously scheduled for January 11, 2019.&lt;ref&gt;{{cite web|last1=McNary|first1=Dave|title=Brad Pitt’s Sci-Fi Movie ‘Ad Astra’ to Hit Theaters in January 2019|url=https://variety.com/2017/film/news/brad-pitt-ad-astra-release-date-1202559836/|publisher=Variety|accessdate=7 April 2018|date=14 September 2017}}&lt;/ref&gt;</edit_text>
+<turn_user>Anon<turn_user>
+<turn_time>16:35, 4 February 2020 </turn_time>
+<turn_topicname>Harry Harrison?</turn_topicname>
+<turn_topictext>Is this based on the Harrison short story of the same name?
+
+Kortoso (talk) 12:30, 26 August 2019 (UTC)
+I think it must be based on Joseph Conrad's Heart of Darkness, perhaps by way of Coppola's Apocalypse Now? The Company (ivory traders, US Army, Spacecom) dispatches an expedition to the edge of the solar system (up the Congo, up the River) into the heart of darkness to find out what's become of their star employee (Kurtz, in both the Congo and Viet Nam, Clifford McBride here). Everyone speaks reverently of this hero, but it's clear he has gone off the rails and no one is willing to say how or why.... The purpose of the expedition is to recover or retrieve Kurtz and/or kill him. In the novel and in Apocalypse Now and in Ad Astra, it is never clear until the very end which option shall be taken. Ad Astra veers from this somewhat -- we never get the sense Roy might join his father; Roy does rescue his father (and the project's databanks) from the Lima vessel, but he dies anyway -- sort of like they writer wanted to have ALL possible endings rolled into one. So there you go</turn_topictext>
+<turn_text> I think it must be based on Joseph Conrad's Heart of Darkness, perhaps by way of Coppola's Apocalypse Now? The Company (ivory traders, US Army, Spacecom) dispatches an expedition to the edge of the solar system (up the Congo, up the River) into the heart of darkness to find out what's become of their star employee (Kurtz, in both the Congo and Viet Nam, Clifford McBride here). Everyone speaks reverently of this hero, but it's clear he has gone off the rails and no one is willing to say how or why.... The purpose of the expedition is to recover or retrieve Kurtz and/or kill him. In the novel and in Apocalypse Now and in Ad Astra, it is never clear until the very end which option shall be taken. Ad Astra veers from this somewhat -- we never get the sense Roy might join his father; Roy does rescue his father (and the project's databanks) from the Lima vessel, but he dies anyway -- sort of like they writer wanted to have ALL possible endings rolled into one. So there you go
+ </turn_text>

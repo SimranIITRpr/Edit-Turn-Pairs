@@ -1,0 +1,13 @@
+<article_title>John_Cage</article_title>
+<edit_user>SethTisue</edit_user>
+<edit_time>Monday, June 4, 2007 4:38:16 AM CEST</edit_time>
+<edit_comment>/* External links */ remove several less important links -- more could stand to go</edit_comment>
+<edit_text>http://youtube.com/watch?v=IC6h1A6TEIE
+<strong><strike>* [http://www.cuentayrazon.org/revista/pdf/144/Num144_006.pdf  John Cage and Peter Sloterdijk; Música concreta, filosofía contemporánea y Registros polifónicos] by Adolfo Vasquez Rocca PhD
+</strike></strong>http://www.editionpeters.com/php/artist_details.php?artist=CAGE&amp;amp;section=composer
+http://www.youtube.com/watch?v=7KKE0f1FGiw from his appearance on the game show &quot;I've Got a Secret&quot;</edit_text>
+<turn_user>SethTisue<turn_user>
+<turn_time>Monday, June 4, 2007 4:39:00 AM CEST</turn_time>
+<turn_topicname>External links</turn_topicname>
+<turn_topictext>Can someone please forward the Wikipedia: policy page regarding advertising with external links. I find the links in "Sites inspired by Cage's work" of dubious value to the article, especially the last one. --bleh fu talk fu June 30, 2005 14:13 (UTC) Yeah, very dubious. I removed the section. SethTisue 04:39, 4 June 2007 (UTC)</turn_topictext>
+<turn_text>Yeah, very dubious. I removed the section. </turn_text>

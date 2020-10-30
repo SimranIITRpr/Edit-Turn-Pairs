@@ -1,0 +1,11 @@
+<article_title>Boron</article_title>
+<edit_user>Sbharris</edit_user>
+<edit_time>Wednesday, February 16, 2011 5:54:21 AM CET</edit_time>
+<edit_comment>/* History and etymology */ Link the first use of borax</edit_comment>
+<edit_text>History and etymology
+The name boron originates from the Arabic word بورق buraq or the Persian word بوره burah;&lt;ref&gt;&lt;/ref&gt; which are names for the mineral <strong><strike>''borax''</strike></strong><strong>[[borax]]</strong>.&lt;ref&gt;&lt;/ref&gt; File:Sassolite.jpg</edit_text>
+<turn_user>Sbharris<turn_user>
+<turn_time>Wednesday, February 16, 2011 6:00:30 AM CET</turn_time>
+<turn_topicname>Add a link?</turn_topicname>
+<turn_topictext>Shouldn't borax be wikilinked in the "etymology" paragraph? JCM83 It's already linked first in the lede and also later in the mineral section. I put in a third link, but that's three. Number of links for the same term in an article should be limited. Here it's when used for the first time, then then maybe when needed to stimulate the memory. A new one in etymology is okay with me, and then the section about borax minerals--- but that's it! blueSorangeBHarris 05:52, 16 February 2011 (UTC)</turn_topictext>
+<turn_text>It's already linked first in the lede and also later in the mineral section. I put in a third link, but that's three. Number of links for the same term in an article should be limited. Here it's when used for the first time, then then maybe when needed to stimulate the memory. A new one in etymology is okay with me, and then the section about borax minerals--- but that's it! </turn_text>

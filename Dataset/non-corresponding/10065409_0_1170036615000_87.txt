@@ -1,0 +1,16 @@
+<article_title>Chandrayaan-2</article_title>
+<edit_user>Rowan Forest</edit_user>
+<edit_time>2019-09-25T13:37:18Z</edit_time>
+<edit_comment>Engineering score for the lander:  90-95%</edit_comment>
+<edit_text>The lander and rover were primarily engineering tests,&lt;ref name='Messier PA'/&gt; and the lander's success criteria was defined for every phase, scoring 90% to 95%.</edit_text>
+<turn_user> Rowan Forest s<turn_user>
+<turn_time>03:36, 20 September 2019</turn_time>
+<turn_topicname>Orbit Track</turn_topicname>
+<turn_topictext>Quote [1]: The Chandrayaan 2, on the other hand, was launched to reach the landing site at the beginning of the lunar day, meaning every time it goes over the landing site it will either be dawn or dusk when there are longer shadows. --Dr Nirupam Roy, assistant professor of Physics at the Indian Institute of Science, Bengaluru.
+
+@Ohsin: The orbiter's track shifts with time, and this -according to Roy- explains why the CY-2 orbiter has not imaged the lander optically whenever it is located above the lander. Cheers, Rowan Forest (talk) 00:04, 20 September 2019 (UTC)
+
+CY-2 is in a "polar synchronous orbit" [2]. Is that the same as a "polar Sun-synchronous orbit? Rowan Forest (talk) 00:21, 20 September 2019 (UTC)
+Lander deployment occurred just after day-break so lighting conditions would not have been great and being polar region sun elevation is always low anyways resulting in long shadows. But CY-2's polar orbit is in no way fixed to day/night terminator as that quote and news report suggests. Earth's oblateness allows for sun synchronicity in near polar orbits but such synchronous orbit around moon with that altitude and inclination is not possible.  Ohsin  02:16, 20 September 2019 (UTC)
+OK, thanks for helping filter out the misinformation. Cheers,</turn_topictext>
+<turn_text>OK, thanks for helping filter out the misinformation.</turn_text>

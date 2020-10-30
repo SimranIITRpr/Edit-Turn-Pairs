@@ -1,0 +1,10 @@
+<article_title>71st Primetime Emmy Awards</article_title>
+<edit_user>96.64.134.61</edit_user>
+<edit_time>2019-07-21T22:00:42Z</edit_time>
+<edit_comment>/* External links */ added link to the list of 2019 nominees</edit_comment>
+<edit_text>[http://www.emmys.com/awards/nominees-winners/2019 Emmys.com list of 2019 Nominees &amp; Winners]</edit_text>
+<turn_user>Amkgp<turn_user>
+<turn_time>11:34, 7 July 2020 </turn_time>
+<turn_topicname> Semi-protected edit request on 7 July 2020[edit]</turn_topicname>
+<turn_topictext>Can the {{IMDb event|0000223/2019}} template be added to 71st Primetime Emmy Awards#External links section? 71st Primetime Emmy Awards on IMDb</turn_topictext>
+<turn_text>Can the {{IMDb event|0000223/2019}} template be added to 71st Primetime Emmy Awards#External links section? 71st Primetime Emmy Awards on IMDb </turn_text>

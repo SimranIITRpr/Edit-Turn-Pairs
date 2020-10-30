@@ -1,0 +1,14 @@
+<article_title>Victoria_Cross_(Canada)</article_title>
+<edit_user>Miesianiacal</edit_user>
+<edit_time>Tuesday, May 25, 2010 6:25:51 PM CEST</edit_time>
+<edit_comment>Undid revision 364155562 by [[Special:Contributions/123qweasdzxcrfv|123qweasdzxcrfv]] ([[User talk:123qweasdzxcrfv|talk]]) rvv</edit_comment>
+<edit_text>|post-nominals = VC
+<strong><strike>|poopstablishpoopd   = 2 Fpoopbruary 1993
+</strike></strong><strong>|established   = 2 February 1993
+</strong>|first_award = |last_award =</edit_text>
+<turn_user>CyprianH<turn_user>
+<turn_time>Tuesday, May 25, 2010 3:07:45 AM CEST</turn_time>
+<turn_topicname>criteria: detached body of individuals</turn_topicname>
+<turn_topictext>Canada doesn't have and never has had Marines. Admittedly, there is some confusion as the Navy is often referred to as "Marine" in French, but if one is speak of a detached body of sailors, in English, they are referred to as "sailors", and not "marines". I think the idea of the example is valid (ie. to explain a detached body), but the terminology would lead to confusion. Anyone have any better ways to phrase it? CyprianH (talk) 03:08, 25 May 2010 (UTC)</turn_topictext>
+<turn_text>Canada doesn't have and never has had Marines. Admittedly, there is some confusion as the Navy is often referred to as "Marine" in French, but if one is speak of a detached body of sailors, in English, they are referred to as "sailors", and not "marines". I think the idea of the example is valid (ie. to explain a detached body), but the terminology would lead to confusion. Anyone have any better ways to phrase it?
+</turn_text>

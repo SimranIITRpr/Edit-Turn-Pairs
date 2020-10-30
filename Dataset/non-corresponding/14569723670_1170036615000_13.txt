@@ -1,0 +1,10 @@
+<article_title>John_Cage</article_title>
+<edit_user>Pithy Francoln</edit_user>
+<edit_time>2019-10-21T13:13:28Z</edit_time>
+<edit_comment>/* Research */ In the sentence discussing an experiment designed to help school children learn, I made minor modifications of both the sentence text and the citation's wikitext.</edit_comment>
+<edit_text>Deleted the career section written in simple manner</edit_text>
+<turn_user>SlubGlub<turn_user>
+<turn_time>20:13, 25 March 2009</turn_time>
+<turn_topicname> Copy and Paste?[edit]</turn_topicname>
+<turn_topictext>What's with the superscript that appears in the last paragraph in the Chance section? Was that just cut and paste from another source or something? The superscript should be replaced with <ref> tags but I'm not sure that the material it references is the one the superscript refers to. In fact, it is almost certainly not..</turn_topictext>
+<turn_text>What's with the superscript that appears in the last paragraph in the Chance section? Was that just cut and paste from another source or something? The superscript should be replaced with <ref> tags but I'm not sure that the material it references is the one the superscript refers to. In fact, it is almost certainly not..</turn_text>

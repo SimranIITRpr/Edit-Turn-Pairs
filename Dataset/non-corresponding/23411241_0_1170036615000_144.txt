@@ -1,0 +1,23 @@
+<article_title>Daniel Johnston</article_title>
+<edit_user>Sumdog</edit_user>
+<edit_time>2008-07-07T03:03:22</edit_time>
+<edit_comment>added citation for second diagnosis</edit_comment>
+<edit_text>(*) [[schizophrenia]]&lt;ref name="BostonGlobe"&gt;{{cite names|url=http://www.boston.com/ae/movies/articles/2006/04/07/his_life_is_troubling_his_fame_disturbing/?rss_id=Boston%2BGlobe%2B--%2BTy%2BBurr%2B%2Bcolumns |first=Ty |last=Burr |title="His life is troubling, his fame disturbing" |date=[[2006-04-07]]}} </edit_text>
+<turn_user>Anon<turn_user>
+<turn_time>22:58, 13 August 2008</turn_time>
+<turn_topicname>Bipolar disorder?</turn_topicname>
+<turn_topictext>I snipped
+
+Johnston suffers from severe bipolar disorder, and has had varying luck with different treatments. He has been institutionalized for periods.
+It's been a couple of weeks since I requested the source for this, and none has been provided. It's quite likely true, but we shouldn't be relying on editors' memories for this sort of fact.
+
+It can be reinserted in the article provided it is accompanied by a source citation, per the verifiability policy. Dpbsmith (talk) 00:37, 4 March 2006 (UTC)
+
+Daniel's manic-depression began to manifest in the early eighties (Yazdani 1999, p.7-8) around the time of his first recording, Songs of Pain, and before Hi, How Are You?.
+Yazdani, Tarssa (1999). Hi, How Are You?. ISBN 1887128417.
+Hyacinth 09:01, 4 March 2006 (UTC)
+This Houstin Chronicle article refers to Johnston's condition as manic-depression (aka bipolar disorder), so I'll put that reference into the article. Schi 01:44, 16 April 2006 (UTC)
+
+Not that it's important right now, but the 2006 documentary should be reference enough regarding his bipolar disorder 78.86.230.62 (talk) 22:58, 13 August 2008 (UTC)
+"Manic Depression" is an outdated name for bipolar disorder and is inappropriate to continue using unless speaking of his diagnosis historically. Even Wikipedia's entry for Manic Depression sends you to "Bipolar Disorder" http://en.wikipedia.org/wiki/Manic_depression .</turn_topictext>
+<turn_text>Not that it's important right now, but the 2006 documentary should be reference enough regarding his bipolar disorder  </turn_text>

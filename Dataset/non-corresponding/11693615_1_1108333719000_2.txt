@@ -1,0 +1,12 @@
+<article_title>Boron_nitride</article_title>
+<edit_user>Polyparadigm</edit_user>
+<edit_time>Sunday, February 13, 2005 11:42:21 PM CET</edit_time>
+<edit_comment>practical considerations, BN nanotubes</edit_comment>
+<edit_text>|} Boron nitride is a binary chemical compound, consisting of equal proportions of boron and nitrogen, with composition BN. Structurally, it is isoelectronic to carbon and takes on similar physical forms: a graphite-like one, and a diamond-like one. The latter is one of the hardest materials known, behind diamond and ultrahard fullerite. It is widely used for grinding and as material for tools in industry, partly because it does not dissolve into iron, nickel and related alloys at high temperatures, but diamond does. Theoretical beta carbon nitride is thought to be harder.<strong>  [[Hexagonal boron nitride]] finds use as a high-temperature lubricant where the electrical conductivity or reactivity of graphite would be problematic.
+
+It can also be synthesized in forms analogous to [[carbon nanotubes]], but with a more uniform electronic [[band gap]] and the potential for [[piezoelectric]] activity.</strong></edit_text>
+<turn_user>Polyparadigm<turn_user>
+<turn_time>Sunday, February 13, 2005 11:28:39 PM CET</turn_time>
+<turn_topicname>Graphite-like, diamond-like</turn_topicname>
+<turn_topictext>I'd rather call it hexagonal and cubic. Maybe leave graphite-like as a remark, but the 'diamond-like' phase is cubic (contary to tetrahedal bonded diamond). Also in the Material-properties template under appearance the two modifications should be mentioned. --Dschwen 07:16, 12 Jan 2005 (UTC) "Diamond cubic" is the name of the crystaline structure of most semiconductors, including diamond, BN, and SiC, and Si. Yes, the bonding is tetrahedral; in fact, tetrahedral symmetry is only found in cubic systems (look down the corner of a cube if you don't see the 3-fold axis at first).--Polyparadigm 23:27, 13 Feb 2005 (UTC)</turn_topictext>
+<turn_text>"Diamond cubic" is the name of the crystaline structure of most semiconductors, including diamond, BN, and SiC, and Si. Yes, the bonding is tetrahedral; in fact, tetrahedral symmetry is only found in cubic systems (look down the corner of a cube if you don't see the 3-fold axis at first).</turn_text>

@@ -1,0 +1,12 @@
+<article_title>77th Golden Globe Awards</article_title>
+<edit_user>Colliric</edit_user>
+<edit_time>2020-01-06T23:56:46Z</edit_time>
+<edit_comment>Adding the Gervais controversy</edit_comment>
+<edit_text>he ceremony garnered both praise and criticism for the opening monologue by Gervais, which many perceived to not be politically correct. Gervais mentioned many controversial topics, including [[Jeffrey Epstein]], [[The College Admissions Scandal]], Leonardo DiCaprio's taste in women and also compared working for [[The Walt Disney Company|Disney]] or [[Apple Inc.|Apple]] to going to work for [[Islamic State of Iraq and the Levant|ISIS]]</edit_text>
+<turn_user>Colliric<turn_user>
+<turn_time> 17:41, 12 January 2020</turn_time>
+<turn_topicname>Ricky Gervais Roast</turn_topicname>
+<turn_topictext>Should Ricky Gervais's roast of Hollywood comments, in which he mentioned topics such as Jeffrey Epstein and compared Apple to ISIS, and which have drawn significant coverage(both praising his statements and criticising them), be mentioned in the Controversy section? This seems to have been the biggest news to come out of the ceremony. Colliric (talk) 23:47, 6 January 2020 (UTC)
+
+It is mentioned now. The current section seems sufficient. </turn_topictext>
+<turn_text>Should Ricky Gervais's roast of Hollywood comments, in which he mentioned topics such as Jeffrey Epstein and compared Apple to ISIS, and which have drawn significant coverage(both praising his statements and criticising them), be mentioned in the Controversy section? This seems to have been the biggest news to come out of the ceremony. </turn_text>

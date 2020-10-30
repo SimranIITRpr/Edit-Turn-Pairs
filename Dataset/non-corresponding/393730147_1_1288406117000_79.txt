@@ -1,0 +1,11 @@
+<article_title>Aspirin</article_title>
+<edit_user>Pol098</edit_user>
+<edit_time>Saturday, October 30, 2010 3:49:47 AM CEST</edit_time>
+<edit_comment>/* Experimental */ links</edit_comment>
+<edit_text>Experimental
+Aspirin has been theorized to reduce cataract formation in diabetic patients, but one study showed it was ineffective for this purpose.&lt;ref name=&quot;chew&quot;&gt;&lt;/ref&gt; The role of aspirin in reducing the incidence of many forms of cancer has also been widely studied. In several studies, aspirin use did not reduce the incidence of prostate cancer.&lt;ref&gt;&lt;/ref&gt;&lt;ref&gt;&lt;/ref&gt; Its effects on the incidence of <strong><strike>pancreatic cancer</strike></strong><strong>[[pancreatic cancer]]</strong> are mixed; one study published in 2004 found a statistically significant increase in the risk of pancreatic cancer among women,&lt;ref&gt;&lt;/ref&gt; while a meta-analysis of several studies, published in 2006, found no evidence that aspirin or other NSAIDs are associated with an increased risk for the disease.&lt;ref&gt;&lt;/ref&gt; The drug may be effective in reduction of risk of various cancers, including those of the colon,&lt;ref name=&quot;thun&quot;&gt;&lt;/ref&gt;&lt;ref&gt;&lt;/ref&gt;&lt;ref&gt;&lt;/ref&gt;&lt;ref&gt;&lt;/ref&gt; lung,&lt;ref&gt;&lt;/ref&gt;&lt;ref&gt; http://www.biomedcentral.com/1471-2407/2/31&lt;/ref&gt; and possibly the upper GI tract, though some evidence of its effectiveness in preventing cancer of the upper GI tract has been inconclusive.&lt;ref name=&quot;'Asprin upper GI cancer'&quot;&gt;&lt;/ref&gt;&lt;ref name=&quot;'Asprin upper GI cancer'&quot;/&gt;&lt;ref&gt;&lt;/ref&gt; Its preventative effect against adenocarcinomas may be explained by its inhibition of PTGS2 (COX-2) enzymes expressed in them.&lt;ref&gt;&lt;/ref&gt;</edit_text>
+<turn_user>Pol098<turn_user>
+<turn_time>Saturday, October 30, 2010 4:35:17 AM CEST</turn_time>
+<turn_topicname>is aspirin is blood thinner agent</turn_topicname>
+<turn_topictext>--24.228.81.143 (talk) 22:36, 1 July 2010 (UTC)--24.228.81.143 (talk) 22:36, 1 July 2010 (UTC) The article says so, with references. Pol098 (talk) 04:35, 30 October 2010 (UTC)</turn_topictext>
+<turn_text>The article says so, with references. </turn_text>

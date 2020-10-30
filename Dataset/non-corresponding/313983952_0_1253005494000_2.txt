@@ -1,0 +1,13 @@
+<article_title>Brain</article_title>
+<edit_user>Tryptofish</edit_user>
+<edit_time>Monday, September 14, 2009 10:48:02 PM CEST</edit_time>
+<edit_comment>/* Development */ edit caption to make two sentences</edit_comment>
+<edit_text>Development
+[[Image:EmbryonicBrain.svg|thumb|right|alt=The nervous system is shown as a rod with protrusions along its length. The spinal cord at the bottom connects to the hindbrain which widens out before narrowing again. This is connected to the midbrain, which again bulges, and which finally connects to the forebrain which has two large protrusions. |<strong><strike>Diagram depicting</strike></strong><strong>This diagram depicts</strong> the main subdivisions of the embryonic vertebrate brain. These regions will later differentiate into forebrain, midbrain and hindbrain structures.]] The brain does not simply grow; it develops in an intricately orchestrated sequence of steps.&lt;ref&gt;Principles of Neural Development, Ch. 1&lt;/ref&gt; Many neurons are created in special zones that contain stem cells, and then migrate through the tissue to reach their ultimate locations.&lt;ref&gt;Principles of Neural Development, Ch. 4&lt;/ref&gt; In the cortex, for example, the first stage of development is the formation of a &quot;scaffold&quot; by a special group of glial cells, called radial glia, which send fibers vertically across the cortex. New cortical neurons are created at the bottom of the cortex, and then &quot;climb&quot; along the radial fibers until they reach the layers they are destined to occupy in the adult.</edit_text>
+<turn_user>Hordaland<turn_user>
+<turn_time>Tuesday, September 15, 2009 11:04:54 AM CEST</turn_time>
+<turn_topicname>unclear sentence?</turn_topicname>
+<turn_topictext>In the section Brain energy consumption, I find the sentence below to be difficult to understand. Perhaps the topic can be better explained? The demands of the brain limit its size in some species, such as bats.[78]
+- Hordaland (talk) 11:04, 15 September 2009 (UTC) Done. The source cited seems to be talking about limiting body weight in order to fly. --Tryptofish (talk) 17:00, 15 September 2009 (UTC)</turn_topictext>
+<turn_text>In the section Brain energy consumption, I find the sentence below to be difficult to understand. Perhaps the topic can be better explained? The demands of the brain limit its size in some species, such as bats.[78]
+- </turn_text>

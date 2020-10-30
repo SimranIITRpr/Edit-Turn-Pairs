@@ -1,0 +1,10 @@
+<article_title>Antibody</article_title>
+<edit_user>TimVickers</edit_user>
+<edit_time>Wednesday, June 6, 2007 3:14:13 PM CEST</edit_time>
+<edit_comment>/* History */ half-edited</edit_comment>
+<edit_text>The concept of antibodies arose as early as the late 19th Century. In 1890, when Emil von Behring and Shibasaburo Kitasato described antibody activity against diphtheria and tetanus toxins, and generated the theory of humoral immunity - an idea that some humoral mediator in serum could react against a foreign antigen.&lt;ref&gt;&lt;/ref&gt;&lt;ref&gt;&lt;/ref&gt; Their idea prompted Paul Ehrlich to propose the lock-and-key principle for antibody and antigen interaction, in 1897, when he theorized that receptors (described as “side chains”) on the surface of cells could specifically bind <strong><strike>different</strike></strong><strong>specifically to</strong> toxins and induce production of more antibodies from those cells; this was called the side chain theory.&lt;ref&gt;&lt;/ref&gt; Other researchers believed that antibodies existed freely in the blood and, in 1904, Almroth Wright suggested that soluble antibodies coated bacteria to assist their phagocytosis; it was Wright that coined the term opsonins.&lt;ref&gt;&lt;/ref&gt;</edit_text>
+<turn_user>Ciar<turn_user>
+<turn_time>Wednesday, June 6, 2007 5:13:54 AM CEST</turn_time>
+<turn_topicname>History</turn_topicname>
+<turn_topictext>I've noticed that a lot of reviewers want to see history sections in articles when they are proposed for the higher levels (!) so I put together a little mish-mash of history that I could find out there. I can't seem to make it flow though...any good copy-editors want to have a go?? Ciar 05:13, 6 June 2007 (UTC) Ciar 21:27, 20 May 2007 (UTC) Done. TimVickers 15:57, 6 June 2007 (UTC)</turn_topictext>
+<turn_text>I've noticed that a lot of reviewers want to see history sections in articles when they are proposed for the higher levels (!) so I put together a little mish-mash of history that I could find out there. I can't seem to make it flow though...any good copy-editors want to have a go?? </turn_text>

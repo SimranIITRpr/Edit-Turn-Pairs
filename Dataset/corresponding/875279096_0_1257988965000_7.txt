@@ -1,0 +1,10 @@
+<article_title>John_Cage</article_title>
+<edit_user>Pithy Francoln</edit_user>
+<edit_time>2019-10-21T13:13:28Z</edit_time>
+<edit_comment>/* Research */ In the sentence discussing an experiment designed to help school children learn, I made minor modifications of both the sentence text and the citation's wikitext.</edit_comment>
+<edit_text>Deleted the career section written in simple manner</edit_text>
+<turn_user>Jose Mathew<turn_user>
+<turn_time>15:49, 15 October 2019 </turn_time>
+<turn_topicname>Research</turn_topicname>
+<turn_topictext>i've added a paragraph about his work, under 'Career'. I have tried to explain his approach in a simple manner. I don't know BLP fully, so can someone rewrite this in a more encyclopaedic tone? Also, does anyone have more references to his work (other than his lab's website)? --Jose Mathew (talk) 15:49, 15 October 2019 (UTC)</turn_topictext>
+<turn_text>I have tried to explain his approach in a simple manner. I don't know BLP fully, so can someone rewrite this in a more encyclopaedic tone</turn_text>

@@ -1,0 +1,10 @@
+<article_title>Brain</article_title>
+<edit_user>Tryptofish</edit_user>
+<edit_time>Tuesday, September 15, 2009 4:58:36 PM CEST</edit_time>
+<edit_comment>/* Brain energy consumption */ clarify sentence, based upon the source cited</edit_comment>
+<edit_text>Image:PET-image.jpg Although the human brain represents only 2% of the body weight, it receives 15% of the cardiac output, 20% of total body oxygen consumption, and 25% of total body glucose utilization.&lt;ref&gt;Clark &amp; Sokoloff, 1999&lt;/ref&gt; The <strong><strike>demands of the</strike></strong><strong>need to limit body weight in order to, for example, fly, limits</strong> brain limit its size in some species, such as bats.&lt;ref&gt;Safi et al., 2005&lt;/ref&gt; The brain mostly utilizes glucose for energy, and deprivation of glucose, as can happen in hypoglycemia, can result in loss of consciousness. The energy consumption of the brain does not vary greatly over time, but active regions of the cortex consume somewhat more energy than inactive regions: this fact forms the basis for the functional brain imaging methods PET and fMRI.&lt;ref&gt;Raichle &amp; Gusnard, 2002&lt;/ref&gt; These are nuclear medicine imaging techniques which produce a three-dimensional image of metabolic activity.</edit_text>
+<turn_user>Tryptofish<turn_user>
+<turn_time>Tuesday, September 15, 2009 12:56:56 AM CEST</turn_time>
+<turn_topicname>missing illustration?</turn_topicname>
+<turn_topictext>The last paragraph of the section Microscopic structure refers to an "illustration on the right" which seems to have gone missing. Either the image should be re-added, or the reference to it should be removed. - Hordaland (talk) 00:36, 15 September 2009 (UTC) Yeeks, you are right! I've looked back through the page history, and it wasn't deleted by mistake any time recently. I'll correct the text. Thanks for finding that! --Tryptofish (talk) 00:56, 15 September 2009 (UTC)</turn_topictext>
+<turn_text>Yeeks, you are right! I've looked back through the page history, and it wasn't deleted by mistake any time recently. I'll correct the text. Thanks for finding that! </turn_text>

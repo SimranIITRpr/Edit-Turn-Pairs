@@ -1,0 +1,10 @@
+<article_title>John_Cage</article_title>
+<edit_user>83.87.170.234</edit_user>
+<edit_time>Tuesday, December 23, 2008 6:51:22 PM CET</edit_time>
+<edit_comment>/* Writings, visual art, and other activities */ better footnote</edit_comment>
+<edit_text>On the cd Indeterminate Activity of Resultant Masses of Glenn Branca an 18 minute interview of Wim Mertens with John Cage is included as an audio track where Cage is talking very negative about the work of Glenn Branca, not knowing the piece was actually a homage to his own work&lt;ref&gt; <strong><strike>Inside</strike></strong><strong>Explanation about the facts concerning the interview in</strong> cd booklet of Indeterminate Activity: Branca: if Cage had known that what he heard was virtually a homage to him...&lt;/ref&gt;.</edit_text>
+<turn_user>Binksternet<turn_user>
+<turn_time>Tuesday, December 23, 2008 8:10:04 PM CET</turn_time>
+<turn_topicname>Mertens-Cage interview about Branca</turn_topicname>
+<turn_topictext>I have twice removed the paragraph in which Cage is supposed to be telling Mertens bad things about Branca's work Indeterminate Activity of Resultant Masses. I felt the added bit was not very revealing about Cage and that it was added in order to bring Branca forward, a tactic which is defined and discouraged at WP:Coatrack. If there were a quoted sentence or two from Cage which showed how he felt about Branca or his piece then the whole bit would be of much greater value. Binksternet (talk) 20:10, 23 December 2008 (UTC) I agree. SethTisue (talk) 13:57, 25 December 2008 (UTC)</turn_topictext>
+<turn_text>I have twice removed the paragraph in which Cage is supposed to be telling Mertens bad things about Branca's work Indeterminate Activity of Resultant Masses. I felt the added bit was not very revealing about Cage and that it was added in order to bring Branca forward, a tactic which is defined and discouraged at WP:Coatrack. If there were a quoted sentence or two from Cage which showed how he felt about Branca or his piece then the whole bit would be of much greater value. </turn_text>

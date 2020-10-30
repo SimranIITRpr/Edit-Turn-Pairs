@@ -1,0 +1,25 @@
+<article_title>Aspirin</article_title>
+<edit_user>Jmh649</edit_user>
+<edit_time>Saturday, March 26, 2011 7:39:07 AM CET</edit_time>
+<edit_comment>section adds little</edit_comment>
+<edit_text><strong><strike>==See also==
+{{Portal|Pharmacy and Pharmacology}}
+* [[Aspergum]]
+* [[blood platelets]]
+* [[copper aspirinate]]
+* [[nonsteroidal anti-inflammatory drug]]
+* [[history of aspirin]]
+* [[salicylic acid]]
+* [[thrombocytopenic purpura]]
+* [[ibuprofen]]
+* [[paracetamol]] (acetaminophen)
+* [[naproxen]]
+* [[Choline Magnesium Trisalicylate]] (Trilisate)
+
+</strike></strong>
+Notes and references</edit_text>
+<turn_user>Jmh649<turn_user>
+<turn_time>Saturday, March 26, 2011 8:13:05 AM CET</turn_time>
+<turn_topicname>Wikipedia is currently down</turn_topicname>
+<turn_topictext>I will continue to edit / organize this content when it is up again... We are discussing changing the section ordering of article under WP:PHARM please join in.--color:#0000f1Doc James (talk · contribs · email) 08:13, 26 March 2011 (UTC)</turn_topictext>
+<turn_text>I will continue to edit / organize this content when it is up again... We are discussing changing the section ordering of article under WP:PHARM please join in.</turn_text>

@@ -1,0 +1,11 @@
+<article_title>Antibody</article_title>
+<edit_user>Ciar</edit_user>
+<edit_time>Wednesday, June 6, 2007 11:03:56 PM CEST</edit_time>
+<edit_comment>/* Immunoglobulin diversity */ rw</edit_comment>
+<edit_text>Immunoglobulin diversity
+The success of antibodies to recognize and eradicate many different types of microbe<strong>s by antibodies</strong> requires diversity; antibodies vary from one another in their amino acid composition allowing them to interact with different antigens.&lt;ref&gt;&lt;/ref&gt; An individual vertebrate possesses a large number of different antibodies, each capable of binding to a distinct antigen or epitope from a foreign object. However, although a huge number of different antibodies are generated, there is not an equally large array of genes available, in a single individual, the number of genes available to make such a huge repertoire of antibodies. Vertebrate B cells have several mechanisms that allow them to generate large antibody diversity from a relatively small number of immunoglobulin genes.&lt;ref name = namazee&gt;&lt;/ref&gt; Image:VDJ recombination.png</edit_text>
+<turn_user>Ciar<turn_user>
+<turn_time>Wednesday, June 6, 2007 5:13:54 AM CEST</turn_time>
+<turn_topicname>History</turn_topicname>
+<turn_topictext>I've noticed that a lot of reviewers want to see history sections in articles when they are proposed for the higher levels (!) so I put together a little mish-mash of history that I could find out there. I can't seem to make it flow though...any good copy-editors want to have a go?? Ciar 05:13, 6 June 2007 (UTC) Ciar 21:27, 20 May 2007 (UTC) Done. TimVickers 15:57, 6 June 2007 (UTC)</turn_topictext>
+<turn_text>I've noticed that a lot of reviewers want to see history sections in articles when they are proposed for the higher levels (!) so I put together a little mish-mash of history that I could find out there. I can't seem to make it flow though...any good copy-editors want to have a go?? </turn_text>

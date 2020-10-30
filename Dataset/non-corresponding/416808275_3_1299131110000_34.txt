@@ -1,0 +1,13 @@
+<article_title>Black_hole</article_title>
+<edit_user>Headbomb</edit_user>
+<edit_time>Wednesday, March 2, 2011 10:22:38 PM CET</edit_time>
+<edit_comment>ce ref</edit_comment>
+<edit_text>|url=http://cosmos.asu.edu/publications/papers/ThermodynamicTheoryofBlackHoles%2034.pdf
+<strong><strike> |accessdate=2011-02-10
+</strike></strong>}}&lt;/ref&gt; Quantum mechanics predicts that black holes also emit radiation like a black body with a finite temperature. This temperature is inversely proportional to the mass of the black hole, making it difficult to observe this radiation for black holes of stellar mass.</edit_text>
+<turn_user>Raza536<turn_user>
+<turn_time>Thursday, March 3, 2011 6:45:10 AM CET</turn_time>
+<turn_topicname>Edit request from Raza536, 3 March 2011</turn_topicname>
+<turn_topictext>respected sir/Madam, I have some concepts of black hole which i want to share with every one so please allow me to edit the page to post my view point thak you Raza536 (talk) 06:45, 3 March 2011 (UTC) Raza536 (talk) 06:45, 3 March 2011 (UTC) You would need to suggest specific edits. Jehochman Talk 11:27, 3 March 2011 (UTC) Per WP:NOR, this is also probably not the best place to try to present your own ideas about black holes. The Wikipedia article is supposed to focus on information that's already been published in sources that meet the guidelines given in WP:RS (in this case, academic literature). --Christopher Thomas (talk) 19:05, 3 March 2011 (UTC)</turn_topictext>
+<turn_text>respected sir/Madam, I have some concepts of black hole which i want to share with every one so please allow me to edit the page to post my view point thak you
+</turn_text>

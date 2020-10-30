@@ -1,0 +1,10 @@
+<article_title>Boron</article_title>
+<edit_user>Sbharris</edit_user>
+<edit_time>Saturday, July 24, 2010 1:29:58 AM CEST</edit_time>
+<edit_comment>/* Artificial B(IV) crystals */</edit_comment>
+<edit_text>One notable boron (IV) compound is magnesium diboride, MgB&lt;sub&gt;2&lt;/sub&gt;. In this compound, boron exists in a flat hexagonal aromatic structure analogous to sheets of carbon in graphite. However, the formal four bonds for each boron (including a double bond for each boron) give each boron atom an extra electron, and thus a formal charge of -1. These electrons are provided by half as many 2+ magnesium (II) ions, which lie between the boron layers. <strong><strike>The</strike></strong><strong>In 2001 this</strong> material is a superconductor.</edit_text>
+<turn_user>Raeky<turn_user>
+<turn_time>Friday, July 23, 2010 4:43:31 PM CEST</turn_time>
+<turn_topicname>boron is not a plant nutrient</turn_topicname>
+<turn_topictext>"Boron is an essential plant nutrient"? Plants can do not eat boron because these element does not dissolve in water. Plants consume boron in dissolvable formes. font-size: smaller;autosigned—Preceding unsigned comment added by 80.13.94.195 (talk) 16:29, 23 July 2010 (UTC) This makes me sad. —&amp;font-family:Monotype Corsiva; font-size:15px;background:#669900;color:#fff;padding:0 4pxraekybackground:#99CC66;padding:0 4px;color:#fff;T 16:43, 23 July 2010 (UTC) By this argument, iodine and iron are not an essential nutrients either, since we do not drink iodine solutions, nor do we eat rust for the iron. This is a nonsensical argument.&amp;Tetracube (talk) 18:47, 23 July 2010 (UTC)</turn_topictext>
+<turn_text>"Boron is an essential plant nutrient"? Plants can do not eat boron because these element does not dissolve in water. Plants consume boron in dissolvable formes. font-size: smaller;autosigned—Preceding unsigned comment added by 80.13.94.195 (</turn_text>

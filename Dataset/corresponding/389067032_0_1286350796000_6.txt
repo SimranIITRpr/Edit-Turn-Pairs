@@ -1,0 +1,11 @@
+<article_title>Haile_Selassie_I</article_title>
+<edit_user>Eaefremov</edit_user>
+<edit_time>Wednesday, October 6, 2010 9:27:49 AM CEST</edit_time>
+<edit_comment>Removed [[:Category:Recipients of the Order of Truth]] (using [[WP:HOTCAT|HotCat]])</edit_comment>
+<edit_text><strong><strike>[[Category:Recipients of the Order of Truth]]
+</strike></strong></edit_text>
+<turn_user>Eaefremov<turn_user>
+<turn_time>Wednesday, October 6, 2010 9:39:56 AM CEST</turn_time>
+<turn_topicname>Categories</turn_topicname>
+<turn_topictext>The "categories" box at the end of this article is absolutely over the top. It's maybe five times longer than the comperable sections of the Wikipedia articles on Jesus and Queen Victoria, and maybe three or four times the size of those on George Washington and Adolf Hitler. I quite seriously think that all four of those combined would only approximate the length of the one for Mr. Selassie. This article really needs to be brought under the supervision of someone who is not a devotee of Selassie or who can at least exercise NPOV.PurpleChez (talk) 03:11, 12 September 2010 (UTC) I started by removing all the redlink categories. All the other "recipients of ..." cats should probably also go, given that the complete list of honors is present in the article. EAE (Holla!) 09:39, 6 October 2010 (UTC) That's an excellent start. It's still about twice the size of the comparable portion of the George Washington article. That might not be the best means of comparison but I think it does suggest that the article as it stands lacks NPOV. Do we really need a listing of every award, badge, medal, pin, certificate, and perfect attendance sticker the man received?PurpleChez (talk) 00:10, 13 January 2011 (UTC) Looks like a lot more work was done and it's a huge improvement. A tip o' the hat to whoever has worked to bring this article under control.PurpleChez (talk) 22:16, 26 January 2011 (UTC)</turn_topictext>
+<turn_text>I started by removing all the redlink categories. All the other "recipients of ..." cats should probably also go, given that the complete list of honors is present in the article. </turn_text>

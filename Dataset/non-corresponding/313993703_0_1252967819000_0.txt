@@ -1,0 +1,10 @@
+<article_title>Brain</article_title>
+<edit_user>Tryptofish</edit_user>
+<edit_time>Monday, September 14, 2009 11:41:07 PM CEST</edit_time>
+<edit_comment>/* Brain and mind */ add cite</edit_comment>
+<edit_text>Understanding the relationship between the physical brain and the functional mind is a challenging problem both philosophically and scientifically.&lt;ref&gt;Churchland, Neurophilosophy&lt;/ref&gt; The most straightforward scientific evidence that there is a strong relationship between the physical brain matter and the mind is the impact physical alterations to the brain have on the mind, such as with traumatic brain injury and psychoactive drug use.<strong><strike>{{Fact|date=November 2008}}</strike></strong><strong>&lt;ref&gt;{{cite book |author=Boake C, Diller L |editor=High WM, Sander AM, Struchen MA, Hart KA| title=Rehabilitation for Traumatic Brain Injury |chapter=History of rehabilitation for traumatic brain injury |publisher=Oxford University Press |location=Oxford [Oxfordshire] |year=2005 |pages= |isbn=0-19-517355-4 |url= http://books.google.com/books?id=AWxL26QinwYC&amp;pg=PA3&amp;dq=%22traumatic+brain+injury%22+century&amp;client=firefox-a |ref= BoakeDiller05}}&lt;/ref&gt;</strong></edit_text>
+<turn_user>Hordaland<turn_user>
+<turn_time>Tuesday, September 15, 2009 12:36:59 AM CEST</turn_time>
+<turn_topicname>missing illustration?</turn_topicname>
+<turn_topictext>The last paragraph of the section Microscopic structure refers to an "illustration on the right" which seems to have gone missing. Either the image should be re-added, or the reference to it should be removed. - Hordaland (talk) 00:36, 15 September 2009 (UTC) Yeeks, you are right! I've looked back through the page history, and it wasn't deleted by mistake any time recently. I'll correct the text. Thanks for finding that! --Tryptofish (talk) 00:56, 15 September 2009 (UTC)</turn_topictext>
+<turn_text>The last paragraph of the section Microscopic structure refers to an "illustration on the right" which seems to have gone missing. Either the image should be re-added, or the reference to it should be removed. - </turn_text>

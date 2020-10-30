@@ -1,0 +1,10 @@
+<article_title>Bushfires in Australia</article_title>
+<edit_user>Anon</edit_user>
+<edit_time>2013-10-24T02:57:31Z</edit_time>
+<edit_comment>fixed ref</edit_comment>
+<edit_text>Greg Hunt uses Wikipedia research to dismiss links between climate change and bushfires</edit_text>
+<turn_user>Yeti Hunter<turn_user>
+<turn_time>04:54, 27 December 2015 (UTC)</turn_time>
+<turn_topicname>Threshold for "major bushfires"</turn_topicname>
+<turn_topictext>The list of "major bushfires in Australia" is getting out of hand - 57 incidents are listed as of today. Most are mere WP:NEWS and there seems to be no rhyme nor reason for inclusion. Some are completely unreferenced, some are flat-out wrong (eg 2014 South Australian bushfires ref does not indicate any deaths occurred, but the list claims 10) others are fairly questionable as far as "major" goes, some of the statements in the section lead are editorialising, and the whole thing has a strong whiff of WP:RECENTISM. Yet it's difficult to think of a blanket criterion for inclusion in such a list. A certain number of deaths/injuries? Minimum area burnt? Structures burnt? Notability in its own right (ie, has own article)? None of these are ideal, but the current situation is pretty sub-optimal. All in all the list clearly needs an audit, and some kind of discrimination. I would welcome any discussion of this.</turn_topictext>
+<turn_text> Some are completely unreferenced, some are flat-out wrong (eg 2014 South Australian bushfires ref does not indicate any deaths occurred, but the list claims 10) others are fairly questionable  </turn_text>

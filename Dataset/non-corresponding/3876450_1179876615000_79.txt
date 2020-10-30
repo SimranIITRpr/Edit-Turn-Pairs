@@ -1,0 +1,12 @@
+<article_title>Bushfires in Australia</article_title>
+<edit_user>Aussie Oc</edit_user>
+<edit_time>2016-12-23T01:17:41Z</edit_time>
+<edit_comment>NA</edit_comment>
+<edit_text>Deleted</edit_text>
+<turn_user>Yetinubu<turn_user>
+<turn_time>18:44, 1 March 2016 (UTC)</turn_time>
+<turn_topicname>New Section Impact</turn_topicname>
+<turn_topictext>I have added a section on the economic impact because of its relevancy to understanding the nature of bushfires and their social and regional impact in Australia. Link from methodological to empiricism to provide individuals with a way to delve deeper into the thought process that garners the the list of items that are expected to be impacted. Yetinubu (talk) 18:44, 1 March 2016 (UTC)
+
+I think this is a topic that needs further exploration on this page as it provides another level of information to the reader that can be be vital to their research on this topic (Bushfires in Australia).</turn_topictext>
+<turn_text>I have added a section on the economic impact </turn_text>

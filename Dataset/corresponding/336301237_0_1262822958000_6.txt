@@ -1,0 +1,12 @@
+<article_title>Alan_Turing</article_title>
+<edit_user>24.18.208.62</edit_user>
+<edit_time>Wednesday, January 6, 2010 11:57:52 PM CET</edit_time>
+<edit_comment>/* In culture */  Turing's appearance as a character in the Neal Stephenson novel Cryptonomicon.</edit_comment>
+<edit_text><strong>Turing appears as a character in the 1999 novel ''[[Cryptonomicon]]'' by American writer [[Neal Stephenson]]. The bestselling book is a fictional account of codebreaking during [[World War II]] along with related plot developments. The text includes references to [[Turing's]] homosexuality.  
+
+</strong>The Turing Relay&lt;ref&gt;http://www.turingrelay.co.uk/&lt;/ref&gt; is a six-stage relay race on riverside footpaths from Ely to Cambridge and back. These paths were used for running by Turing while at Cambridge; his marathon best time was 2&amp;nbsp;hours, 46&amp;nbsp;minutes,&lt;ref&gt;The Alan Turing Internet Scrapbook: http://www.turing.org.uk/turing/scrapbook/run.html&lt;/ref&gt; while the marathon world best time in the early 1940s was around 2&amp;nbsp;hours, 25&amp;nbsp;minutes.</edit_text>
+<turn_user>HiLo48<turn_user>
+<turn_time>Thursday, January 7, 2010 1:09:18 AM CET</turn_time>
+<turn_topicname>Addition to "In Culture"</turn_topicname>
+<turn_topictext>The following has been added to "In Culture" "Turing appears as a character in the 1999 novel Cryptonomicon by American writer Neal Stephenson. The bestselling book is a fictional account of codebreaking during World War II along with related plot developments. The text includes references to Turing's homosexuality." It reads OK to me. It shows that Turing has become a significant character in modern times. It links to another Wikipedia article. Can't see a problem with it. HiLo48 (talk) 01:10, 7 January 2010 (UTC) Yeah Its Fine. It shows even though he was a homosexual he was a great mathematician. 10:54, 22 January 2010 (CMS) font-size: smaller;autosigned—Preceding unsigned comment added by 68.153.118.208 (talk)</turn_topictext>
+<turn_text>The following has been added to "In Culture" "Turing appears as a character in the 1999 novel Cryptonomicon by American writer Neal Stephenson. The bestselling book is a fictional account of codebreaking during World War II along with related plot developments. The text includes references to Turing's homosexuality." It reads OK to me. It shows that Turing has become a significant character in modern times. It links to another Wikipedia article. Can't see a problem with it. </turn_text>

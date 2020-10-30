@@ -1,0 +1,17 @@
+<article_title>Andy Reid</article_title>
+<edit_user>TiMike</edit_user>
+<edit_time>2010-05-07T01:39:26Z</edit_time>
+<edit_comment>/* External links */ updating link</edit_comment>
+<edit_text>==External links==
+*[http://www.philadelphiaeagles.com/eagles_files/html/coach_reid_1.html Philadelphia Eagles: Head Coach Andy Reid] '''official team biography'''
+*[http://www.theatlantic.com/doc/200810/nfl-eagles Distant Replay: An Interview With Andy Reid]</edit_text>
+<turn_user>Balfa<turn_user>
+<turn_time>23:47, 9 November 2009 </turn_time>
+<turn_topicname>Who is this andy reid?</turn_topicname>
+<turn_topictext>when searching for andy reid, the page that appears should be for the footballer (soccer player), i am sure he is of more note and fame than this bloke, seriously wee cares about some yank fella. —Preceding unsigned comment added by Jamboertoot (talk • contribs) 19:24, 31 October 2009 (UTC)
+
+It is indeed daft. I've never heard of this man either. It should at least be straight to disambig, there is no way he is so famous he dwarves a international footballer.--130.243.175.252 (talk) 12:15, 8 November 2009 (UTC)
+
+Agreed. Though I don't know the criteria for picking a dominant Andy Reid. Balfa (talk) 23:47, 9 November 2009 (UTC)
+I don't know such criteria either, but there is a disambiguation page through which you can get to Andy Reid the footballer (soccer player).</turn_topictext>
+<turn_text>Agreed. Though I don't know the criteria for picking a dominant Andy Reid </turn_text>

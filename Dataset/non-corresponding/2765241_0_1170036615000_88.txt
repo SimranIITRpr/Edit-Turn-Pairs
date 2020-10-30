@@ -1,0 +1,11 @@
+<article_title>62nd Annual Grammy Awards</article_title>
+<edit_user>Doc Strange</edit_user>
+<edit_time>2020-01-27T05:04:55Z</edit_time>
+<edit_comment>NA</edit_comment>
+<edit_text><strong><strike>Eilish became the first artist to win [[Grammy Award for Record of the Year|Record of the Year]], [[Grammy Award for Album of the Year|Album of the Year]], [[Grammy Award for Song of the Year|Song of the Year]] and [[Grammy Award for Best New Artist|Best New Artist]] in the same year since [[Christopher Cross]] did so in [[23rd Annual Grammy Awards|1981]].&lt;ref&gt;{{cite web |title=Billie Eilish makes history, sweeping all four major categories at 2020 Grammys
+</strong></edit_text>
+<turn_user>Anon<turn_user>
+<turn_time>16:44, 28 January 2020</turn_time>
+<turn_topicname>Swift never actually confirmed to perform</turn_topicname>
+<turn_topictext>Producers say her performance was never confirmed. https://variety.com/2020/music/news/ken-ehrlich-interview-2020-grammys-recap-kobe-bryant-alicia-keys-ariana-grande-1203483164/ — </turn_topictext>
+<turn_text>Producers say her performance was never confirmed. https://variety.com/2020/music/news/ken-ehrlich-interview-2020-grammys-recap-kobe-bryant-alicia-keys-ariana-grande-1203483164/ —.</turn_text>

@@ -1,0 +1,11 @@
+<article_title>Victoria_Cross_(Canada)</article_title>
+<edit_user>Jennavecia</edit_user>
+<edit_time>Thursday, August 23, 2007 8:51:57 PM CEST</edit_time>
+<edit_comment>/* Conferment */ expanding ref info, wikifying date</edit_comment>
+<edit_text>Conferment
+Ninety-four Canadians were awarded the British VC, the last in 1945. The last living recipient, Smokey Smith, died in 2005. No one has been awarded or nominated for the Canadian VC to date, though there were announcements that Elizabeth II, Queen of Canada, would present a Victoria Cross to Prime Minister Stephen Harper, in recognition of the gallantry of the Unknown Soldier, at the rededication of the Vimy Memorial on April 7, 2007, the 90th anniversary of the battle of Vimy Ridge.&lt;ref&gt;{{cite web| author=CTV.ca News Staff | url=http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20070303/victoria_cross_070303/20070303?| title=Top military honour now cast in Canadahub |<strong><strike>publisher</strike></strong><strong>work</strong>=CTV News |date=2007-03-03 |accessdate=2007-07-12}}&lt;/ref&gt; The proposal was met with a mixed response from members of the Royal Canadian Legion and Canadian Forces; detractors felt the Unknown Soldier should not be elevated above his other fallen comrades. It had also been agreed at the time of the repatriation of the Unknown Soldier that no award or decoration would be bestowed on the remains.&lt;ref&gt;&lt;/ref&gt; Ultimately the plan to award the VC to the Unknown Soldier was quietly dropped. It should be noted that American Unknown Soldier has been awarded the British Victoria Cross and the British Unknown Soldier was awarded the American Medal of Honor, while the Canadian soldier has received neither of these awards.</edit_text>
+<turn_user>Woody<turn_user>
+<turn_time>Thursday, August 23, 2007 10:36:41 AM CEST</turn_time>
+<turn_topicname>Good article review</turn_topicname>
+<turn_topictext>Due to the rather ignominious circumstances of its promotion and subsequent delisting i have put it up for GA review. Woodym555 10:36, 23 August 2007 (UTC)</turn_topictext>
+<turn_text>Due to the rather ignominious circumstances of its promotion and subsequent delisting i have put it up for GA review. </turn_text>

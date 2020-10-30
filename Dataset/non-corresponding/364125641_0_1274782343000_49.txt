@@ -1,0 +1,13 @@
+<article_title>Victoria_Cross_(Canada)</article_title>
+<edit_user>173.12.185.61</edit_user>
+<edit_time>Tuesday, May 25, 2010 3:17:13 PM CEST</edit_time>
+<edit_comment>NA</edit_comment>
+<edit_text>|awarded_by = the&lt;br&gt;File:Canadian Coat of Arms Shield.svg&lt;br&gt;Queen of Canada
+<strong><strike>|type          = Medal
+</strike></strong><strong>|type          = Monkey
+</strong>|eligibility = Members of the Canadian Forces or an allied force serving with the Canadian Forces on or after 1 January 1993. |for = The most conspicuous bravery, daring or pre-eminent acts of valour, self-sacrifice, or extreme devotion to duty in the presence of the enemy.</edit_text>
+<turn_user>John Maynard Friedman<turn_user>
+<turn_time>Tuesday, May 25, 2010 12:12:23 PM CEST</turn_time>
+<turn_topicname>Original lede: "The Canadian medal may be awarded more than once, however nobody has received it since its inception".  Cart before the horse?</turn_topicname>
+<turn_topictext>Surely by far the most important point is that nobody has ever been awarded the medal? That it can be awarded more than once is surely an academic point that doesn't belong in the lede, let alone as a non-sequitur introduction to the key point. I have deleted the "may be awarded twice" bit from the lede: if frequent editors believe it is a critical inclusion then at least reword it so that it follows the key point, not introduces it! --John Maynard Friedman (talk) 12:12, 25 May 2010 (UTC)</turn_topictext>
+<turn_text>Surely by far the most important point is that nobody has ever been awarded the medal? That it can be awarded more than once is surely an academic point that doesn't belong in the lede, let alone as a non-sequitur introduction to the key point. I have deleted the "may be awarded twice" bit from the lede: if frequent editors believe it is a critical inclusion then at least reword it so that it follows the key point, not introduces it! </turn_text>

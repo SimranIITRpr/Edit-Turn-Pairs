@@ -1,0 +1,12 @@
+<article_title>Brain</article_title>
+<edit_user>Chrishmt0423</edit_user>
+<edit_time>Monday, September 14, 2009 5:51:22 AM CEST</edit_time>
+<edit_comment>formatting: 97x whitespace, 2x ellipsis (using [[User:Cameltrader#Advisor.js|Advisor.js]])</edit_comment>
+<edit_text><strong><strike>*&amp;lt;cite id=&amp;quot;refPuelles&amp;quot;&amp;gt;{{cite journal 
+</strike></strong><strong>*&lt;cite id=&quot;refPuelles&quot;&gt;{{cite journal
+</strong>| last = Puelles | first = L</edit_text>
+<turn_user>Tryptofish<turn_user>
+<turn_time>Tuesday, September 15, 2009 12:56:56 AM CEST</turn_time>
+<turn_topicname>missing illustration?</turn_topicname>
+<turn_topictext>The last paragraph of the section Microscopic structure refers to an "illustration on the right" which seems to have gone missing. Either the image should be re-added, or the reference to it should be removed. - Hordaland (talk) 00:36, 15 September 2009 (UTC) Yeeks, you are right! I've looked back through the page history, and it wasn't deleted by mistake any time recently. I'll correct the text. Thanks for finding that! --Tryptofish (talk) 00:56, 15 September 2009 (UTC)</turn_topictext>
+<turn_text>Yeeks, you are right! I've looked back through the page history, and it wasn't deleted by mistake any time recently. I'll correct the text. Thanks for finding that! </turn_text>

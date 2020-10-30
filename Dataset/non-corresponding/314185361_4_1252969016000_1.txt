@@ -1,0 +1,10 @@
+<article_title>Brain</article_title>
+<edit_user>Ostracon</edit_user>
+<edit_time>Tuesday, September 15, 2009 8:39:15 PM CEST</edit_time>
+<edit_comment>/* How it is studied */</edit_comment>
+<edit_text>Some methods of examining the brain are mainly useful in humans, and are described in the human brain article. This section focuses on methods that are usable across a wide range of animal species, though the great majority of <strong>basic </strong>neuroscience experiments are done using rats or mice as subjects.</edit_text>
+<turn_user>Tryptofish<turn_user>
+<turn_time>Tuesday, September 15, 2009 12:56:56 AM CEST</turn_time>
+<turn_topicname>missing illustration?</turn_topicname>
+<turn_topictext>The last paragraph of the section Microscopic structure refers to an "illustration on the right" which seems to have gone missing. Either the image should be re-added, or the reference to it should be removed. - Hordaland (talk) 00:36, 15 September 2009 (UTC) Yeeks, you are right! I've looked back through the page history, and it wasn't deleted by mistake any time recently. I'll correct the text. Thanks for finding that! --Tryptofish (talk) 00:56, 15 September 2009 (UTC)</turn_topictext>
+<turn_text>Yeeks, you are right! I've looked back through the page history, and it wasn't deleted by mistake any time recently. I'll correct the text. Thanks for finding that! </turn_text>

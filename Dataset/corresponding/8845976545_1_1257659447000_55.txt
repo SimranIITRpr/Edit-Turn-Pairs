@@ -1,0 +1,22 @@
+<article_title>Chandrayaan-2</article_title>
+<edit_user>Rowan Forest</edit_user>
+<edit_time>2019-09-25T13:37:18Z</edit_time>
+<edit_comment>Engineering score for the lander:  90-95%</edit_comment>
+<edit_text>The lander and rover were primarily engineering tests,&lt;ref name='Messier PA'/&gt; and the lander's success criteria was defined for every phase, scoring 90% to 95%.</edit_text>
+<turn_user> Rowan Forest s<turn_user>
+<turn_time>15:32, 6 October 2019</turn_time>
+<turn_topicname>95% Success</turn_topicname>
+<turn_topictext>Regarding my revert: the orbiter just entered lunar orbit, so I has not achieved any scientific success yet. A science mission without data return cannot be successful, right? This is another unfortunate misleading statement from Mr. Sivan because of the brevity of his comment. The 95% success refers strictly to the engineering milestones, such as orbiter safe, lander separation, deorbit, and the 4 stages of the descent & landing. I wanted badly to quote him in this correct context, but no publication has explained it correctly. As an example, the European Schiaparelli lander crashed; it was strictly an engineering mission, and since they obtained all the telemetry, it was officially declared a success. The engineering component of the Vikram lander and orbiter may very well be a respectable 95%, but the science part of mission, just got started, and it has yet to report any data. Cheers, Rowan Forest (talk) 23:20, 24 September 2019 (UTC)
+
+@Antares101: Hello. I performed a partial revert of my deletion. Please take a look at this revision and source. Thank you for your patience. Rowan Forest (talk) 13:40, 25 September 2019 (UTC)
+I think calling lander/rover mere engineering tests trivializes their importance and work put into them by science/engineering teams, they were not like Schiaparelli EDM which explicitly carried the demonstrator tag. Both were engineering firsts for ISRO but also central to the mission being one of the core objectives, consuming most of the R&D time, costs, causing the launch vehicle switch and most significantly dictating the much discussed landing site. Orbiter was ready 3-4 years ago even contributing hardware to MOM. The reference used has author postulating based on first official statement which has been contended by same author in his later reports. A hypothetical scenario where lander/rover would have survived post separation and orbiter for some reason ceased functioning, even then it could be easily spun into a "98% success" as well! These prompt official statements appear more inclined towards perception management due to high pressure awkward situation they created for themselves.  Ohsin  08:00, 30 September 2019 (UTC)
+@Ohsin: I just tweaked the text again. I think it may be useful in dispelling the misinformation in the press, but please feel free to review or even delete the [percentage] entry altogether. I was just trying to accommodate Antares101 edit. Cheers, Rowan Forest (talk) 17:02, 30 September 2019 (UTC)
+Scientists tell BBC they contest that number [3]. Delete the entry? -Rowan Forest (talk) 05:28, 1 October 2019 (UTC)
+Compiling criticism on claims and handling of situation in case this needs to be included in article.[1][2][3][4][5][6]
+Space is hard, but for all the support the Indian media wanted to give to Mr. Sivan, they are catching up to the inconsistencies (potentially false information) so this was unavoidable. Normally, we wait in Wikipedia for the final report stating their conclusions of the failure, and then we create a section dealing with that. But if they are shown to have intentionally released misleading or inaccurate information, then we should complement that future section with the inconsistencies stated by the officials themselves. Rowan Forest (talk) 15:32, 6 October 2019 (UTC)
+So in an interview[7] K Sivan has said that
+‘98% success rate’ are not my words. That was the success rate given by the committee in its initial assessment.
+
+But in his interview to state broadcaster Doordarshan[8] twice he owns his words with "I would say".
+I would say that it is a 90-95% of the technology demonstration already we have done. So in total the Chandrayaan-2 mission it is very close to 100% success, I would say.</turn_topictext>
+<turn_text>I would say that it is a 90-95% of the technology demonstration already we have done. So in total the Chandrayaan-2 mission it is very close to 100% success, I would say.</turn_text>

@@ -1,0 +1,10 @@
+<article_title>Abhijit Banerjee</article_title>
+<edit_user>Msourav01</edit_user>
+<edit_time>2019-11-30T18:40:12Z</edit_time>
+<edit_comment>NA</edit_comment>
+<edit_text>Deleted</edit_text>
+<turn_user>Jose Mathew<turn_user>
+<turn_time> 15:49, 15 October 2019 </turn_time>
+<turn_topicname>Research</turn_topicname>
+<turn_topictext>i've added a paragraph about his work, under 'Career'. I have tried to explain his approach in a simple manner. I don't know BLP fully, so can someone rewrite this in a more encyclopaedic tone? Also, does anyone have more references to his work (other than his lab's website)?</turn_topictext>
+<turn_text>i've added a paragraph about his work, under 'Career'. I have tried to explain his approach in a simple manner. I don't know BLP fully, so can someone rewrite this in a more encyclopaedic tone? Also, does anyone have more references to his work (other than his lab's website)? </turn_text>

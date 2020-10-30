@@ -1,0 +1,10 @@
+<article_title>Antibody</article_title>
+<edit_user>DO11.10</edit_user>
+<edit_time>Thursday, June 7, 2007 12:57:16 AM CEST</edit_time>
+<edit_comment>/* Structure */ copyedits</edit_comment>
+<edit_text>Immunoglobulins are heavy plasma proteins, with sugar chains added to amino acid residues by N-linked glycosylation and occasionally by O-linked glycosylation, such as in IgA1 and IgD.&lt;ref&gt;&lt;/ref&gt; In other words, antibodies are glycoproteins. The basic unit of each antibody is an Ig monomer with one Ig unit but secreted antibod<strong><strike>y</strike></strong><strong>ies</strong> can also be dimeric with two Ig units as with IgA, tetrameric with four Ig units like teleost fish IgM, or pentameric with five Ig units, like mammalian IgM.&lt;ref name = roux&gt;&lt;/ref&gt;</edit_text>
+<turn_user>TimVickers<turn_user>
+<turn_time>Wednesday, June 6, 2007 3:57:01 PM CEST</turn_time>
+<turn_topicname>History</turn_topicname>
+<turn_topictext>I've noticed that a lot of reviewers want to see history sections in articles when they are proposed for the higher levels (!) so I put together a little mish-mash of history that I could find out there. I can't seem to make it flow though...any good copy-editors want to have a go?? Ciar 05:13, 6 June 2007 (UTC) Ciar 21:27, 20 May 2007 (UTC) Done. TimVickers 15:57, 6 June 2007 (UTC)</turn_topictext>
+<turn_text>Done. </turn_text>

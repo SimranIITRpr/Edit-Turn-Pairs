@@ -1,0 +1,26 @@
+<article_title>Amino_acid</article_title>
+<edit_user>Squidonius</edit_user>
+<edit_time>Wednesday, July 14, 2010 9:23:56 PM CEST</edit_time>
+<edit_comment>/* Table of standard amino acid abbreviations and properties */ Added Sec and Pyl to the table...</edit_comment>
+<edit_text><strong>Additionally, there are two additional amino acids which are incorporated by overriding stop codons:
+
+{| class=&amp;quot;wikitable&amp;quot;
+! Ambiguous Amino Acids
+! 3-Letter
+! 1-Letter
+|- align=&amp;quot;center&amp;quot;
+| Selenocysteine
+| Sec
+| U
+|- align=&amp;quot;center&amp;quot;
+| Pyrrolysine
+| Pyl
+| O
+|}
+
+</strong>In addition to the specific amino acid codes, placeholders are used in cases where chemical or crystallographic analysis of a peptide or protein can not conclusively determine the identity of a residue.</edit_text>
+<turn_user>Squidonius<turn_user>
+<turn_time>Wednesday, July 14, 2010 9:42:39 PM CEST</turn_time>
+<turn_topicname>Expanded genetic code</turn_topicname>
+<turn_topictext>I have added expanded genetic code by copy paste from genetic code, but I have not mentioned the letter codes used for the amino acids as they are non-iupac and author specific and re-use the other non-20 ), which gets confusing (non ascii capital letters (Þ, Ð, Ü etc) cannot be used for various encoding reasons). --Squidonius (talk) 21:42, 14 July 2010 (UTC)</turn_topictext>
+<turn_text>I have added expanded genetic code by copy paste from genetic code, but I have not mentioned the letter codes used for the amino acids as they are non-iupac and author specific and re-use the other non-20 ), which gets confusing (non ascii capital letters (Þ, Ð, Ü etc) cannot be used for various encoding reasons).  </turn_text>

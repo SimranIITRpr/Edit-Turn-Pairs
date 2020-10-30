@@ -1,0 +1,10 @@
+<article_title>Boeing_767</article_title>
+<edit_user>MilborneOne</edit_user>
+<edit_time>Saturday, December 18, 2010 5:25:14 PM CET</edit_time>
+<edit_comment>Undid revision 403039927 by [[Special:Contributions/Jhz94|Jhz94]] ([[User talk:Jhz94|talk]])needs to be discussed before it is changed - thank you</edit_comment>
+<edit_text>|name=Boeing 767 |image=image:D<strong><strike>l767.jpg</strike></strong><strong>elta Air Lines B767-300ER N1607B.JPG</strong>&lt;!-- In flight images are preferred for aircraft. Please do not change this image without a talk page discussion. --&gt; |caption=Delta Air Lines Boeing 767-300ER</edit_text>
+<turn_user>MilborneOne<turn_user>
+<turn_time>Saturday, December 18, 2010 5:30:39 PM CET</turn_time>
+<turn_topicname>Change Factbox of image</turn_topicname>
+<turn_topictext>I think the image in the description box should be changed to this: File:Dl767.jpg Reason: Delta has changed its livery and is still a large 767 operator. Jhz94 18:21, 18 December 2010 (CET) Please dont change the image until after the discussion if you get a consensus. Dont see it should be changed the current image gives a reasonable airborne impression of the aircraft. The livery doesnt have to be up to date as this is an encyclopedia and a historical image is fine it is the view of the aircraft that is more important. MilborneOne (talk) 17:30, 18 December 2010 (UTC) A livery change is no reason to change the lead image of an aircraft article. An image with new livery should be included in the Delta article though. --Denniss (talk) 19:40, 18 December 2010 (UTC)</turn_topictext>
+<turn_text>Please dont change the image until after the discussion if you get a consensus. Dont see it should be changed the current image gives a reasonable airborne impression of the aircraft. The livery doesnt have to be up to date as this is an encyclopedia and a historical image is fine it is the view of the aircraft that is more important. </turn_text>

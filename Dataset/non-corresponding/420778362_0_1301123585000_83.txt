@@ -1,0 +1,11 @@
+<article_title>Aspirin</article_title>
+<edit_user>Jmh649</edit_user>
+<edit_time>Saturday, March 26, 2011 7:41:45 AM CET</edit_time>
+<edit_comment>does not need its own section</edit_comment>
+<edit_text><strong><strike>====Mitigation of gastrointestinal bleeding====
+</strike></strong>In addition to enteric coating, &quot;buffering&quot; is the other main method companies have used to try to mitigate the problem of gastrointestinal bleeding. Buffering agents are intended to work by preventing the aspirin from concentrating in the walls of the stomach, although the benefits of buffered aspirin are disputed. Almost any buffering agent that is used in antacids can be used; Bufferin, for example, uses MgO. Other preparations use CaCO&lt;sub&gt;3&lt;/sub&gt;.&lt;ref&gt;http://antoine.frostburg.edu/chem/senese/101/acidbase/faq/buffered-aspirin.shtml&amp;lt;/ref&amp;gt;</edit_text>
+<turn_user>Jmh649<turn_user>
+<turn_time>Saturday, March 26, 2011 8:13:05 AM CET</turn_time>
+<turn_topicname>Wikipedia is currently down</turn_topicname>
+<turn_topictext>I will continue to edit / organize this content when it is up again... We are discussing changing the section ordering of article under WP:PHARM please join in.--color:#0000f1Doc James (talk · contribs · email) 08:13, 26 March 2011 (UTC)</turn_topictext>
+<turn_text>I will continue to edit / organize this content when it is up again... We are discussing changing the section ordering of article under WP:PHARM please join in.</turn_text>
